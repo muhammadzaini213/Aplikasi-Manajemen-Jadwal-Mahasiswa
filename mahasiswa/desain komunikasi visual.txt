@@ -1,0 +1,61 @@
+Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Gambar Bentuk (DK201401)		Nirmana 2D (DK201405)		Pengantar Desain Komunikasi Visual (DK201402)		Sejarah Seni Barat (DK201404)	
+22241001	Achmad Ramadhani Saputra	C	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241002	Aditya Narayana	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241003	Afina Salsabila Putri	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241004	Al Zahwa Indira Novianti	C	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241005	Amalia Syafira	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241006	Amelia Khasanah Putri	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241007	Anastasya Husnul Syauira	C	Senin, Sesi 3	O	Senin, Sesi 2	Q	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241008	Andi Naila Azra Izzati	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241009	Aulia Cantika Lauda	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241010	Belqis Sepnathreea Almira	C	Senin, Sesi 3	O	Senin, Sesi 2	Q	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241011	Cahaya Ramadhani	C	Senin, Sesi 3	O	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241012	Daffa Ridho Pasya	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241013	Devarra Hannah Jasmine Rachel Putria	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241014	Dhea Nabila Destiariandini	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241015	Dina Septiani	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241016	Diosina Rabielda Djamardi	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241017	Faiza Nasywa Kamila	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241018	Faiza Nurul Azkiya	A	Selasa, Sesi 1	O	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241019	Fasya Saffanah Ramadani	B	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241020	Frinka Sirmauli Yolandaris Sirait	C	Senin, Sesi 3	O	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241021	Friska Pricillia	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241022	Gabriela Vina Marsela	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241023	Hannah Marsya Nauli Hutabarat	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241024	Ihlasul Amal	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241025	Inaya Ummu Ammara	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241026	Juniardika Atha Lelana	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241027	Keysha Miracle Mannuela	A	Selasa, Sesi 1	O	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241028	Khalishah Salsabila	B	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241029	Laetitia Aurora	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241030	Misbahul Munir	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241031	Muhammad Kamal Dhiyamusaffa Ramadhansyah	B	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241032	Muhammad Rizky	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241033	Nabil Nugroho Justisiko	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241034	Nadia Aisyah	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241035	Nadiematul Khairiyyah	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241036	Nahira Nur Wanda	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241037	Naila Az Zahrah	B	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241038	Nailah Nazhifah	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241039	Najah Ramadhani	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241040	Nasywaa Assyifa Raidah	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241041	Nayla Putri Chalisa	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241042	Nazwa Nor Janah	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241043	Nyndi Cahya Maulani Putri	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241044	Olga Jane Vanka	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241045	Rachmad Ersyam Adi Pangestu	A	Selasa, Sesi 1	O	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241046	Raiza Kurnia Febrian	B	Senin, Sesi 3	O	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241047	Rakha Dzaky Alfath	C	Senin, Sesi 3	N	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241048	Reva Islami Budiman	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241049	Rhama Fhaizal Nasywan	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241050	Rino Mustofa Lutfi	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241051	Rochmat Fitriadi	A	Selasa, Sesi 1	N	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241052	Shafa Muthia Zahra Fadhillah	B	Senin, Sesi 3	O	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241053	Stevani Tang	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241054	Virsa Cinta Ramadhani	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241055	Vito Zilanayo	B	Senin, Sesi 3	N	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241056	Wa Ode Selfinar	C	Senin, Sesi 3	O	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241057	Wahyu Aji Kurniawan	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241058	Zahwa Aliya Yasmin	B	Senin, Sesi 3	M	Senin, Sesi 2	Q	Jumat, Sesi 2	B	Rabu, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241059	Zaskia Alifya Rabbani	C	Senin, Sesi 3	M	Senin, Sesi 2	R	Jumat, Sesi 2	C	Kamis, Sesi 3	A	Jumat, Sesi 4	A	Kamis, Sesi 1	-	Kamis, Sesi 2	-	Rabu, Sesi 2
+22241060	Zulfa Azizah Deana	A	Selasa, Sesi 1	M	Senin, Sesi 2	P	Jumat, Sesi 2	A	Senin, Sesi 3	B	Kamis, Sesi 4	B	Jumat, Sesi 3	-	Kamis, Sesi 2	-	Rabu, Sesi 2

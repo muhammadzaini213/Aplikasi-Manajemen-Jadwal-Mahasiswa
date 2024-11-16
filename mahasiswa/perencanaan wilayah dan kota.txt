@@ -1,0 +1,74 @@
+Bahasa Indonesia (KU201102)		Bahasa Inggris (KU201219)		Fisika Umum 1 (KU201213)		Kalkulus 1 (KU201209)		Kimia Umum (KU201216)		Praktikum Fisika Umum 1 (KU201213)		Pengantar Perencanaan dan Perancangan (PW201401)		Teknik Komunikasi Perencanaan (PW201402)	
+08241001	Agil Aurelia Frasikin	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241002	Ahmad Haydar	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241003	Akmal Zufar Maulana	I	Jumat, Sesi 2	M	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241004	Alifia Nur Az-Zahra	G	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241005	Alpius Inggibal	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241006	Andhika Rahmani Pramana	I	Jumat, Sesi 2	M	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241007	Angelina Putri Prameswari	G	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241008	Aniis Aifa Najuba	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241009	Aqmal Hasyim Fadhillah	I	Jumat, Sesi 2	N	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241010	Ariel Jhordani	G	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241011	Arya Fajar Satria	H	Rabu, Sesi 4	M	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241012	Assyifa Aurelia Rusman	I	Jumat, Sesi 2	O	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241013	Athiyah Tahir Pagau	G	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241014	Atika Maisya Adelia	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241015	Ayudiah Maharani	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241016	Bima Satria Wijaya	G	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241017	Brylia Alsefira	H	Rabu, Sesi 4	M	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241018	Cassey Olivia	I	Jumat, Sesi 2	N	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241019	Citra Amanda Arafah	G	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241020	Danang Nur Huda	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241021	Dea Amalia	I	Jumat, Sesi 2	N	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241022	Fachriyan Azhiim Dharmawan	G	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241023	Farid Zaidan	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241024	Fathul Zannah Anwar	I	Jumat, Sesi 2	O	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241025	Fatimah Az Zahro	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241026	Fatimah Azzahra	H	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241027	Gabriel Bathara Tangkelangi	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241028	Grace Miraychel Maso	G	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241029	Hidayati Putri	H	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241030	Inayah Luthfia Rahima	I	Jumat, Sesi 2	M	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241031	Jessica Ingrid Paskalia	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241032	Kevin Fhilipus	H	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241033	Khumaidi Maulana Putra	I	Jumat, Sesi 2	N	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241034	Lady Edelweiss	G	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241035	Laudiya Nazzwa	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241036	Masayu Tiara Angela Mezaluna	I	Jumat, Sesi 2	O	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241037	Mirza Miftahul Atillah	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241038	Muhammad Alfauzan Syamsul	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241039	Muhammad Fadli Khaeruman	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241040	Muhammad Fathan Shidqi Rinjani	G	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241041	Muhammad Gazali Annur	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241042	Muhammad Rafi Al Malik Avianto	I	Jumat, Sesi 2	M	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241043	Muthia Ulfah	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241044	Nabila Deswita Alifia	H	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241045	Nabila Mawardani	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241046	Nabila Nur Ramadhani	G	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241047	Nadine Putri Juanata	H	Rabu, Sesi 4	M	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241048	Nadya Aulia	I	Jumat, Sesi 2	M	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241049	Nakeisha Danella Gadi	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241050	Nasyachayla Arvelia Rachman	H	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241051	Neezaluna Anjelita	I	Jumat, Sesi 2	M	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241052	Nirwana	G	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241053	Ondo Octo Adeo Purba	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241054	Patricia Kristania Gultom	I	Jumat, Sesi 2	N	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241055	Rafalia Hafizha Fauzi	G	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241056	Resti	H	Rabu, Sesi 4	O	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241057	Restu Juliananto	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241058	Retno Widyanti	G	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241059	Revalina Shinta Octaviana	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241060	Rika Angraeni	I	Jumat, Sesi 2	O	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241061	Ritza Dinara Putri	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241062	Salsabil Septiana	H	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241063	Sanai Majid	I	Jumat, Sesi 2	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241064	Satrio Oktav Imanuel	G	Rabu, Sesi 4	M	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241065	Shawn Antonio Afargo	G	Rabu, Sesi 4	M	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241066	Syahdan Nur Imam Raditya	I	Jumat, Sesi 2	N	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241067	Tania Prisqilla Assem	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241068	Timeon Walilo	H	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	V	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241069	Tirtagriani Balansih Pramestari Cahyasit	I	Jumat, Sesi 2	N	Senin, Sesi 2	B	Selasa, Sesi 3	X	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241070	Troyda Elizabeth Sigaha	G	Rabu, Sesi 4	N	Senin, Sesi 2	B	Selasa, Sesi 3	W	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241071	Ulya Azizah Anwar	H	Rabu, Sesi 4	N	Senin, Sesi 2	A	Selasa, Sesi 3	X	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1
+08241072	Ummu Nabila	I	Jumat, Sesi 2	M	Senin, Sesi 2	B	Selasa, Sesi 3	V	Kamis, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 3
+08241073	Zaskia Khoirunnisa	G	Rabu, Sesi 4	O	Senin, Sesi 2	A	Selasa, Sesi 3	W	Kamis, Sesi 1	A	Selasa, Sesi 2	A	Kamis, Sesi 3	A	Jumat, Sesi 3	A	Selasa, Sesi 1

@@ -1,0 +1,49 @@
+Bahasa Indonesia (KU201102)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Menggambar Teknik (KE201402)		Pengantar Teknik Kelautan (KE201401)	
+14241001	Aditya Putra Pratama	I	Jumat, Sesi 2	P	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	F	Rabu, Sesi 3	C	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241002	Ahmad Riza Faizurrahman	G	Rabu, Sesi 4	P	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	G	Rabu, Sesi 3	D	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241003	Aldi Ahsani	H	Rabu, Sesi 4	Q	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	H	Rabu, Sesi 3	C	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241004	Alfanio Bagus Maranantha	I	Jumat, Sesi 2	S	Selasa, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	D	Rabu, Sesi 3	D	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241005	Aliefya Nabil Zuhdi	G	Rabu, Sesi 4	Q	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	E	Rabu, Sesi 3	C	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241006	Annas Ilham Mustaqim	H	Rabu, Sesi 4	P	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	F	Rabu, Sesi 3	D	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241007	Arya Rachsel Mesylita Situmorang	I	Jumat, Sesi 2	P	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	G	Rabu, Sesi 3	C	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241008	Aulia Zahrah	G	Rabu, Sesi 4	P	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	H	Rabu, Sesi 3	D	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241009	Avivi Sabilul Huda Ritonga	H	Rabu, Sesi 4	P	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	D	Rabu, Sesi 3	C	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241010	Dharma Wijaya	I	Jumat, Sesi 2	R	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	E	Rabu, Sesi 3	D	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241011	Diana Islamiati	G	Rabu, Sesi 4	P	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	F	Rabu, Sesi 3	C	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241012	Dirga Mintin	H	Rabu, Sesi 4	R	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	G	Rabu, Sesi 3	D	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241013	Diva Kirana Salsabilla Puspanyo	I	Jumat, Sesi 2	R	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	H	Rabu, Sesi 3	C	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241014	Diyon Octo Ramadhan	G	Rabu, Sesi 4	Q	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	D	Rabu, Sesi 3	D	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241015	Egi Ariesta Astra Winata	H	Rabu, Sesi 4	R	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	E	Rabu, Sesi 3	C	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241016	Eka Nur Ahmad Syaputra	I	Jumat, Sesi 2	S	Selasa, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	F	Rabu, Sesi 3	D	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241017	Fitrah Pratama Suksin	G	Rabu, Sesi 4	S	Selasa, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	G	Rabu, Sesi 3	C	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241018	Frans S Manik	H	Rabu, Sesi 4	S	Selasa, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	H	Rabu, Sesi 3	D	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241019	Gapai Nirwana Putra Kotambunan	I	Jumat, Sesi 2	P	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	D	Rabu, Sesi 3	C	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241020	Giossua Putra Aditia	G	Rabu, Sesi 4	Q	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	E	Rabu, Sesi 3	D	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241021	Ifan Pramana	H	Rabu, Sesi 4	Q	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	F	Rabu, Sesi 3	C	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241022	Jacson Kenedy Togatorop	I	Jumat, Sesi 2	R	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	G	Rabu, Sesi 3	D	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241023	Lucky Fathul Nicolas Prabowo	G	Rabu, Sesi 4	S	Selasa, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	H	Rabu, Sesi 3	C	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241024	Mahyuda Asep Malindon	H	Rabu, Sesi 4	P	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	D	Rabu, Sesi 3	D	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241025	Mario Sisokhimbowo Laia	I	Jumat, Sesi 2	S	Selasa, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	E	Rabu, Sesi 3	C	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241026	Mohammad Irvan Anwar	G	Rabu, Sesi 4	P	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	F	Rabu, Sesi 3	D	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241027	Muhammad Dimas Nur Rahman	H	Rabu, Sesi 4	Q	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	G	Rabu, Sesi 3	C	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241028	Muhammad Gabriel Herella	I	Jumat, Sesi 2	Q	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	H	Rabu, Sesi 3	D	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241029	Muhammad Hafis Adhwa	G	Rabu, Sesi 4	P	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	D	Rabu, Sesi 3	C	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241030	Muhammad Ivan Zhanuar Putra Sakha	H	Rabu, Sesi 4	S	Selasa, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	E	Rabu, Sesi 3	D	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241031	Muhammad Maulana Indra Gunawan	I	Jumat, Sesi 2	S	Selasa, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	F	Rabu, Sesi 3	C	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241032	Muhammad Sandy Pradipta Aswin	G	Rabu, Sesi 4	S	Selasa, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	G	Rabu, Sesi 3	D	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241033	Nachwa Audrey Vearly	H	Rabu, Sesi 4	R	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	H	Rabu, Sesi 3	C	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241034	Nanda Aulia Anwar	I	Jumat, Sesi 2	S	Selasa, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	D	Rabu, Sesi 3	D	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241035	Nicky Alexander Dollu	G	Rabu, Sesi 4	S	Selasa, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	E	Rabu, Sesi 3	C	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241036	Noval Anthony Prasetyo	H	Rabu, Sesi 4	R	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	F	Rabu, Sesi 3	D	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241037	Novanatalia Br Saragih	I	Jumat, Sesi 2	R	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	G	Rabu, Sesi 3	C	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241038	Nur Fatimah Azzahrah	G	Rabu, Sesi 4	Q	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	H	Rabu, Sesi 3	D	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241039	Nuril Syahiddin	H	Rabu, Sesi 4	Q	Senin, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	D	Rabu, Sesi 3	C	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241040	Paulino Jastin Suyangsi	I	Jumat, Sesi 2	Q	Senin, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	E	Rabu, Sesi 3	D	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241041	Praditya Fadilah Nazardi	G	Rabu, Sesi 4	P	Senin, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	F	Rabu, Sesi 3	C	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241042	Redytya Januar Sendy	H	Rabu, Sesi 4	R	Senin, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	G	Rabu, Sesi 3	D	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241043	Renold Andika	I	Jumat, Sesi 2	S	Selasa, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	H	Rabu, Sesi 3	C	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241044	Rianti	G	Rabu, Sesi 4	S	Selasa, Sesi 4	D	Selasa, Sesi 3	C	Senin, Sesi 1	D	Rabu, Sesi 3	D	Selasa, Sesi 1	D	Kamis, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241045	Rizky Dian Pratama	H	Rabu, Sesi 4	S	Selasa, Sesi 4	C	Selasa, Sesi 3	D	Senin, Sesi 1	E	Rabu, Sesi 3	C	Selasa, Sesi 1	E	Kamis, Sesi 3	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241046	Steve Mario Manuel Budi	I	Jumat, Sesi 2	S	Selasa, Sesi 4	D	Selasa, Sesi 3	A	Senin, Sesi 1	F	Rabu, Sesi 3	D	Selasa, Sesi 1	F	Kamis, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241047	Surya Ramadhan Amir	G	Rabu, Sesi 4	S	Selasa, Sesi 4	C	Selasa, Sesi 3	B	Senin, Sesi 1	G	Rabu, Sesi 3	C	Selasa, Sesi 1	G	Jum'at, Sesi 1	_	Kamis, Sesi 2	_	Senin, Sesi 2
+14241048	Tiara Amalia Rahman	H	Rabu, Sesi 4	Q		D	Selasa, Sesi 3	C	Senin, Sesi 1	H	Rabu, Sesi 3	D	Selasa, Sesi 1	H	Jum'at, Sesi 4	_	Kamis, Sesi 2	_	Senin, Sesi 2

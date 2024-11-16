@@ -1,0 +1,101 @@
+Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Pancasila (KU201101)		Pengantar Metode Statistik (KU201217)		Praktikum Fisika Dasar 1 (KU201211)		Menggambar Bangunan Sipil (TS201412)		Struktur Statis Tertentu (TS201411)		Struktur Statis Tertentu (TS201411)	
+07241001	Abdullah Chandra	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241002	Achmad Fadhillah	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241003	Achmad Ikhsan Fadillah	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241004	Adi Setiawan Noor Cahyadi Putra	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241005	Afirah Aprilia Hikmah	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241006	Afita Elisabeth Syaloom Sinaga	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241007	Ahmad Aqil Mukarram	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241008	Ahmad Doly Syahbana Sagala	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241009	Ahmad Dzaky Riswanda	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241010	Ahmad Ihwan Nor Ifandi	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241011	Aimar Nazzal Al Firmansyah	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241012	Aksel Reynard Panjaitan	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241013	Albarn Achmadinejad	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241014	Alief Putra Adhi Wicaksono	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241015	Alisya Kayla Putri Baihaqi	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241016	Alya Putra Abdullah	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241017	Alya Rahma Tina	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241018	Aprilya Pasya Anthony	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241019	Arbiyansyah Yogi Saputra	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241020	Ardzmadyan Aflaqul Hadra	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241021	Ashydiqi Aimanur Haq	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241022	Aslam Nabil Husein	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241023	Aster Otevy	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241024	Awaluddin Maghribi Fauzi	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241025	Boaz Ugwoy Ongge	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	S	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241026	Chantika Nayla Saputri	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	V	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241027	Dedy Kurniawan	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241028	Diantra Adya Sulaiman	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241029	Dimaz Arya Johan	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241030	Eka Setya Ningrum	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241031	Eklesia Putri Wangkay	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241032	Fadhlurrahman Nul Hakim Ramadhani	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241033	Filzah Rahmadani	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241034	Fina Syakirah Ramadhan	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241035	Firdaus Edma Junior	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241036	Ghazian Faiq Widyatamaka	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241037	Giordino Sipata Patiung	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241038	Grichella Marrilyn Giskard	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241039	Harsya Chairil Hanafi	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241040	Iaquinta Djajeng Pangau	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241041	Ikhsan Nur Iman	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241042	Ilyas Fadhil Rohid	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241043	Imam Fadilah Al Ghifari	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241044	Ince Siti Jumiati Salam	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241045	Indri Dwi Aryanti	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241046	Jesika Meisel Elias	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241047	Jesnita Aulia Maya Resky	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241048	Kanugrahan Asta Digda	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241049	Kevin Alfandy Imanuel	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241050	Kevin Morenova	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241051	Khusnul Khotimah	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241052	Layla Putri Ashari	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241053	M. Khairul Fahmi	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241054	M. Nazril Dahlan	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241055	Maheza Dwi Sutrisno	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241056	Mayfelino Rajani Sampul	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241057	Meissy Ratna Artanty	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241058	Mochammad Irzha Raditiya	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241059	Muhamad Zakky Fathony	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241060	Muhammad Afif Fadhlurrahman	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241061	Muhammad Ainur Rahman	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241062	Muhammad Akbar Almuda Pannusu	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241063	Muhammad Arifin Hidayat	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241064	Muhammad Dzakwan Muttaqin	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241065	Muhammad Faidil Ilham	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241066	Muhammad Fajar Fernanda	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241067	Muhammad Faris Sulthon	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241068	Muhammad Fawwaz Zikri	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241069	Muhammad Gimsya	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241070	Muhammad Hanif Asshidiq	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241071	Muhammad Iqbal Nurhuda	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241072	Muhammad Rafi Herdana	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241073	Muhammad Reza Yudhistira	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241074	Muhammad Rifqy Dzoelkarnaen Lesmana	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241075	Muhammad Rizqi Pratama	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241076	Muhammad Syahrul Salehudin	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241077	Muhammad Taufiqulhakim	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241078	Muhammad Zacky Al Faritzi	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241079	Muhmammad Syafaat Abduh Fattah Maada	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241080	Nadia Aliftha Putri Tesyar Ramadhani	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241081	Nailah Azzahra	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241082	Naina Putri Ramadhani	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241083	Nurul Aulya Putri	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241084	Nurul Safira	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241085	Raden Nabil Billie Ghifari	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241086	Radine Wirasena	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241087	Raihan Arya Nugraha	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241088	Randy Pratama Bintang Mahardika	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241089	Rasyadinata Zhulyan Admaja	V	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241090	Rendy Bagas Ali Akbar	S	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241091	Ridho Amanda	T	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241092	Rifani Zaldi Basyir	U	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241093	Rizky Ristyanto	V	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241094	Roma Ida H. U. Sianipar	S	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241095	Romeo Azani Gading Ramadhan	T	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241096	Sani Lofentri Sinaga	U	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241097	Shofi Haniifah Sthepani	V	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	K	Jumat, Sesi 3	V	Selasa, Sesi 3	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241098	Veby Nurul Sakinah	S	Selasa, Sesi 1	W	Kamis, Sesi 1	Q	Jumat, Sesi 2	E	Jumat, Sesi 3	S	Selasa, Sesi 4	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2
+07241099	Velza Yasmina	T	Selasa, Sesi 1	X	Kamis, Sesi 1	R	Jumat, Sesi 2	F	Jumat, Sesi 3	T	Selasa, Sesi 4	A	Senin, Sesi 1	A	Senin, Sesi 4	A	Rabu, Sesi 2
+07241100	Zaldi Azril Azhar	U	Selasa, Sesi 1	V	Kamis, Sesi 1	P	Jumat, Sesi 2	G	Jumat, Sesi 3	U	Selasa, Sesi 3	B	Rabu, Sesi 1	B	Selasa, Sesi 2	B	Kamis, Sesi 2

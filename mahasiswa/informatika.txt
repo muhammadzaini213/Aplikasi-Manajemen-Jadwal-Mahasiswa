@@ -1,0 +1,93 @@
+Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Pengantar Informatika (IF201401)	
+11241001	Abbie Dzakwan Putra Setyawan	M	Jumat, Sesi 3	B	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	F	Rabu, Sesi 2	M	Jumat, Sesi 4	E	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241002	Aditiya Kusuma	H	Jumat, Sesi 3	C	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241003	Adrian Orlin Vinsensyah	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241004	Adrian Tannady	J	Jumat, Sesi 3	D	Kamis, Sesi 2	G	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	D	Selasa, Sesi 4	J	Selasa, Sesi 1	G	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241005	Ahmad Anwar Abdul Qowi	K	Jumat, Sesi 3	A	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241006	Ahmad Rafif Rafi	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241007	Akmal Nuzulla	M	Jumat, Sesi 3	C	Selasa, Sesi 2	F	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	E	Selasa, Sesi 4	M	Jumat, Sesi 4	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241008	Aldo Adirajasa Fathoni	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241009	Aldy Tri Ramadhani	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241010	Alisha Zalfa Safitri	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241011	Alisya Duri Azizah	K	Jumat, Sesi 3	D	Kamis, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	D	Selasa, Sesi 4	K	Kamis, Sesi 1	H	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241012	Amalia Rahmanda	L	Jumat, Sesi 3	B	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	E	Selasa, Sesi 4	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241013	Anantha Lokantara	M	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	M	Jumat, Sesi 4	G	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241014	Andi Naufal Nurfadhil	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241015	Ariel	I	Jumat, Sesi 3	C	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241016	Benediktus Aldreno Fabian Wowor	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241017	Berlian Mayfarel Rafael	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	A	Rabu, Sesi 3	D	Selasa, Sesi 4	K	Kamis, Sesi 1	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241018	Bhisma Aprian Prayogi	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241019	Brian Frisco Simanjuntak	M	Jumat, Sesi 3	D	Kamis, Sesi 2	H	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	E	Selasa, Sesi 4	M	Jumat, Sesi 4	H	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241020	Bryan Fitur Ayni	H	Jumat, Sesi 3	C	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241021	Chrisella Sefriana Tilukay	I	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241022	Christian Imanuel Admojo	J	Jumat, Sesi 3	C	Selasa, Sesi 2	G	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241023	Cindy Aulia Renita	K	Jumat, Sesi 3	C	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241024	Daniel Juan Haris Hutajulu	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	D	Selasa, Sesi 4	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241025	Dea Cinta Ramadani	M	Jumat, Sesi 3	D	Kamis, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	E	Selasa, Sesi 4	M	Jumat, Sesi 4	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241026	Diva Novaliza Fitriyani	H	Jumat, Sesi 3	B	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241027	Dylan Sukma Yudha	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241028	Fauzan Fayzul Haq	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241029	Fazly Pasya Pahlevi	K	Jumat, Sesi 3	C	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	D	Selasa, Sesi 4	K	Kamis, Sesi 1	H	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241030	Ferdianta Tarigan	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241031	Fikhar Riyazul Islam	M	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	F	Rabu, Sesi 2	M	Jumat, Sesi 4	F	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241032	Gathan Gafarrel Aqilla	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	E	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241033	Gian Al Haritz Ueldy Secondri	I	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241034	Giva Asilah Hasnaa Putri	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241035	Ibnu Dwiki Hermawan	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241036	James Alvaro Gavriel Pulung	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	D	Selasa, Sesi 4	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241037	Jasmine Aishwarya Wandha	M	Jumat, Sesi 3	C	Selasa, Sesi 2	G	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	E	Selasa, Sesi 4	M	Jumat, Sesi 4	G	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241038	Jasmine Ayu Andini	H	Jumat, Sesi 3	C	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241039	Kanjeng Adha Nur Asis	I	Jumat, Sesi 3	C	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241040	Kevin Jonathan Wijaya	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241041	Lisa Sapitri	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241042	M. Syabani Nur Zain	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241043	Maulana Wahid Ramadan	M	Jumat, Sesi 3	A	Selasa, Sesi 2	H	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	D	Selasa, Sesi 4	M	Jumat, Sesi 4	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241044	Mayoga Finanda	H	Jumat, Sesi 3	C	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	E	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241045	Mochammad Azriel Albian Putra	I	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241046	Mohammad Mambau Khusnul Umam	J	Jumat, Sesi 3	C	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241047	Muh. Indra Anugrah	K	Jumat, Sesi 3	A	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241048	Muhamad Radyt Iksan Pratama	L	Jumat, Sesi 3	A	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	D	Selasa, Sesi 4	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241049	Muhamad Rizal	M	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	F	Rabu, Sesi 2	M	Jumat, Sesi 4	E	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241050	Muhammad Aditya Putra	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	E	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241051	Muhammad Afdhalul Adam	I	Jumat, Sesi 3	D	Kamis, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241052	Muhammad Fakhrii Julian Noor	J	Jumat, Sesi 3	D	Kamis, Sesi 2	G	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241053	Muhammad Farel Alkayis	K	Jumat, Sesi 3	A	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241054	Muhammad Fauzan Akmal	L	Jumat, Sesi 3	B	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241055	Muhammad Iqbal	M	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	D	Selasa, Sesi 4	M	Jumat, Sesi 4	F	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241056	Muhammad Iqbal Ferhan	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241057	Muhammad Khairullah Kosasih Zain	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	A	Rabu, Sesi 3	E	Selasa, Sesi 4	I	Rabu, Sesi 1	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241058	Muhammad Nabil Ihyalfikra	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241059	Muhammad Rayhant Almunawar	K	Jumat, Sesi 3	A	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241060	Muhammad Ridho Alfarod	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241061	Muhammad Rifqy Dzakwan	M	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	D	Selasa, Sesi 4	M	Jumat, Sesi 4	G	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241062	Muhammad Rizky Wicaksono	H	Jumat, Sesi 3	D	Kamis, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	E	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241063	Muhammad Wisnu Wardhana	I	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241064	Muhammad Zaini	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241065	Mutia Rahmawati	K	Jumat, Sesi 3	C	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241066	Nabil Arif Ikhwanul Hakim	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241067	Nabilah Al Fadiyah	M	Jumat, Sesi 3	D	Kamis, Sesi 2	H	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	M	Jumat, Sesi 4	H	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241068	Nadine Adelia Rizky Kusmanda	H	Jumat, Sesi 3	B	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	D	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241069	Naila Kalsum	I	Jumat, Sesi 3	D	Kamis, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	E	Selasa, Sesi 4	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241070	Nathanael Prasetyo	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241071	Naufal Rifqi Rahman	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241072	Nurmuhammad Wahyu Ramadhan	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241073	Pandu Restu Adjie	M	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	D	Selasa, Sesi 4	M	Jumat, Sesi 4	E	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241074	Prima Hafidz Maulana	H	Jumat, Sesi 3	B	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241075	Rafael Hotdion Lumban Toruan	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	A	Rabu, Sesi 3	E	Selasa, Sesi 4	I	Rabu, Sesi 1	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241076	Rana Afifah Dzikro	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241077	Rhadyt Insan Faryabie	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	C	Selasa, Sesi 4	A	Kamis, Sesi 2 
+11241078	Rifat Arifaldo	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241079	Sebastian Paskahadi Budiman	M	Jumat, Sesi 3	A	Selasa, Sesi 2	F	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	G	Rabu, Sesi 2	M	Jumat, Sesi 4	F	Senin, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241080	Sulthan Farizan Fawwaz	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	D	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	B	Rabu, Sesi 4	B	Jumat, Sesi 2
+11241081	Syahri Nastain	I	Jumat, Sesi 3	D	Kamis, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241082	Terrano Jazil Fadiatmoko	J	Jumat, Sesi 3	B	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	E	Selasa, Sesi 4	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241083	Thisya Darmala	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241084	Thopan Rahman Hakim	L	Jumat, Sesi 3	C	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241085	Tiara Saparang	M	Jumat, Sesi 3	D	Kamis, Sesi 2	G	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	G	Rabu, Sesi 2	M	Jumat, Sesi 4	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241086	Vanessa Marrie Tandiarru	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	A	Rabu, Sesi 3	D	Selasa, Sesi 4	H	Selasa, Sesi 3	E	Senin, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2
+11241087	Veronika Thalila Putri	I	Jumat, Sesi 3	B	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	E	Selasa, Sesi 4	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241088	Vincensius Frodo Siregar	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	E	Selasa, Sesi 3	C	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241089	Wulan Oktavianty Ajitomo	K	Jumat, Sesi 3	B	Selasa, Sesi 2	H	Senin, Sesi 1	F	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	K	Kamis, Sesi 1	H	Kamis, Sesi 4	A	Senin, Sesi 3	A	Kamis, Sesi 2 
+11241090	Yumna Azzahra	L	Jumat, Sesi 3	B	Selasa, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	C	Rabu, Sesi 3	G	Rabu, Sesi 2	L	Rabu, Sesi 4	I	Jumat, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2
+11241091	Zamir Zulkarnain Litbarsky	M	Jumat, Sesi 3	C	Selasa, Sesi 2	H	Senin, Sesi 1	H	Selasa, Sesi 1	B	Rabu, Sesi 3	G	Rabu, Sesi 2	M	Jumat, Sesi 4	H	Kamis, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2 
+11241092	Zharif Aziz Zulkarnain Widodo	H	Jumat, Sesi 3	A	Selasa, Sesi 2	E	Senin, Sesi 1	H	Selasa, Sesi 1	C	Rabu, Sesi 3	F	Rabu, Sesi 2	H	Selasa, Sesi 3	E	Senin, Sesi 4	C	Selasa, Sesi 4	B	Jumat, Sesi 2

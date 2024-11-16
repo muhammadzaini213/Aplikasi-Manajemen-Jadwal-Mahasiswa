@@ -1,0 +1,17 @@
+Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Geometri (MA201402)		Geometri (MA201402)		Logika Matematika (MA201401)	
+02241001	Alfin Nur Pratama	B	Selasa, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241002	Halimah	D	Kamis, Sesi 2	I	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241003	Helena Elisabeth Panggabean	D	Kamis, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241004	Isti Qomah	D	Kamis, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241005	Jihan Butsainah Dian Wiluyo	D	Kamis, Sesi 2	I	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241006	Nabila Fitria Ningsih	D	Kamis, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241007	Nadhira Putri Rifani	C	Selasa, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241008	Najibah Maisun Qoroifidah	A	Selasa, Sesi 2	I	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241009	Nanda Nur Hidayati	D	Kamis, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241010	Natasya Pratiwi	D	Kamis, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241011	Nazwa Sifa Zaskia	C	Selasa, Sesi 2	I	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241012	Qanita Dalila	D	Kamis, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241013	Sarlina	D	Kamis, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241014	Saskia Ega Pramasya	C	Selasa, Sesi 2	I	Senin, Sesi 1	F	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241015	Siti Nur Salwa	D	Kamis, Sesi 2	I	Senin, Sesi 1	G	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1
+02241016	Tabita Dorkas Simamora	C	Selasa, Sesi 2	I	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	I	Jumat, Sesi 4	B	Rabu, Sesi 4	_	Rabu, Sesi 2	_	Jumat, Sesi 2	_	Kamis Sesi 1

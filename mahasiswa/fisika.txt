@@ -1,0 +1,25 @@
+Algoritme Pemrograman (KU201218)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Pancasila(KU201101)	Pengantar Metode Statistik(KU201217)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Algoritme Pemrograman (KU201218)		Aljabar Linier Elementer (FI201411)		Biologi Umum (FI01412)	
+01241001	Angelika Putri Fadilla	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241002	Christian Mayone Permana	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241003	Feliks Salvador Mora Samosir	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241004	Fitri Aulia Waode	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241005	Isma Watu Ridho Baitu Rahmawati	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241006	Juan Akhbar Wahyudi	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241007	Juan Prayoga	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241008	Lidya Moulina	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241009	Lodia Vrita Sari	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241010	Lollyta Viriya Cahyani	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241011	Loza Asmi Nahara Maharani	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241012	M. Sabila Arrosad Pandiani	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241013	Muhammad	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241014	Muhammad Afrizal Maarif	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241015	Muhammad Raichan Nurfirdaus	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241016	Muhammad Wahyu Nur Rokhim	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241017	Muhammad Zahid Tegar Alamsyah	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241018	Putri Herawati	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241019	Ratih Kusnawati	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241020	Reihan Triandoko	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241021	Sesilia Putri Rantetana	A	Selasa, Sesi 1	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241022	Tegar Ayomi Hanura Dwinusa	B	Senin, Sesi 3	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241023	Tina Sarmila	A	Selasa, Sesi 1	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Senin, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2
+01241024	Umrotul Mafiroh	B	Senin, Sesi 3	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	D	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Rabu, Sesi 3	-	Jumat, Sesi 3	-	Kamis, Sesi 2

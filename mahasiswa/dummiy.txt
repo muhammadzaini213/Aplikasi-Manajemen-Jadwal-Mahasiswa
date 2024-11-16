@@ -1,0 +1,2 @@
+Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Pengantar Informatika (IF201401)	
+11241064	Muhammad Zaini	J	Jumat, Sesi 3	A	Selasa, Sesi 2	G	Senin, Sesi 1	G	Selasa, Sesi 3	A	Rabu, Sesi 3	F	Rabu, Sesi 2	J	Selasa, Sesi 1	G	Kamis, Sesi 4	A	Senin, Sesi 3	B	Jumat, Sesi 2

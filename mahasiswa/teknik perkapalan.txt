@@ -1,0 +1,93 @@
+Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		"Menggambar Teknik Pengantar CAD 
+(TP201402)"		Pengantar Teknologi Perkapalan (TP201401)	
+09241001	Aan Aniarta	C	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241002	Achmad Firdausi	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241003	Aday Alfurqon	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241004	Adrian Ade Rahman	C	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241005	Agus Tri Rukmini	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241006	Aji Nugroho	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241007	Alexander Girsang	C	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241008	Alif Rayhan Danadyaksa	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241009	Ananda Lucky Ramadhan	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241010	Anas Shuhaib Umair Yahya	C	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241011	Andika Herdiagni	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241012	Andika Setiawan Nasution	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241013	Angga Prasetya Arahman	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241014	Aswandhy Ibra Putra Gunawan	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241015	Ayudha Azka Santoso	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241016	Aziel Decha Dakara	A	Selasa, Sesi 1	P	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241017	Benny Pramujaya Ferry Abidin	B	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241018	Bima Danuarta	C	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241019	Chelsy Agita Agusty	A	Selasa, Sesi 1	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241020	Cindy Fransiska Gea	B	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241021	Daffarrel Athar Nufail	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241022	Dani Alif Saputra	A	Selasa, Sesi 1	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241023	Dhanie Indra Wibowo	B	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241024	Dhea Nazila Putri Zendrato	C	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241025	Dhika Pangestu	A	Selasa, Sesi 1	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241026	Dimas Ahmad Fachrezy	B	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241027	Dody Fazriansyah	C	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241028	Erick Estrada	A	Selasa, Sesi 1	Q	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241029	Franck Clarens Apituley	B	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241030	Haerawati	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
+09241031	Hafizh Fauzan	A	Selasa, Sesi 1	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241032	Haikal Luthfir Rahman	B	Senin, Sesi 3	P	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241033	Haris Abdillah Adif Radja	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241034	Hebi	A	Selasa, Sesi 1	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241035	Hendri Saputra	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241036	Ibnu Fadillah	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241037	Indra	A	Selasa, Sesi 1	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241038	Intan Stefani	B	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241039	Irfansyah Sukma Jaya	C	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241040	Joseph Rudy Setya Pratama	A	Selasa, Sesi 1	P	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241041	Judika Boy Nando Sinaga	B	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241042	Landro Hutasoit	C	Senin, Sesi 3	P	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241043	M Afzaal Shahansha	A	Selasa, Sesi 1	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241044	Mario	B	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241045	Marselinus Katiok	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241046	Maulana Ibrahim Hendrawan Silondae	A	Selasa, Sesi 1	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241047	Michael Pulung	B	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241048	Muhamad Fajrin	C	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241049	Muhammad Adi Permana	A	Selasa, Sesi 1	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241050	Muhammad Agil Rizqullah	B	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241051	Muhammad Ali Ridho	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241052	Muhammad Aziz Fairus Ghatfan	A	Selasa, Sesi 1	P	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241053	Muhammad Azwar Fazriansyah	B	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241054	Muhammad Daffa Rayhan	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241055	Muhammad Danang Saputra	A	Selasa, Sesi 1	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241056	Muhammad Dzakwan Habibi	B	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241057	Muhammad Firdan Ramadhani T.	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241058	Muhammad Iqbaal	A	Selasa, Sesi 1	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241059	Muhammad Jazmi Sukirman	B	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241060	Muhammad Naufal Mei Rahman	C	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Jumat, Sesi 4	B	Kamis, Sesi 2
+09241061	Muhammad Syahril	A	Selasa, Sesi 1	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241062	Muhammad Yusuf	B	Senin, Sesi 3	P	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241063	Najwa Putri Desmi	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241064	Novita Zahra Pratiwi	A	Selasa, Sesi 1	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241065	Nur Purnama Nadilla	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241066	Oktafrizon Simanjuntak	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241067	Pasha Yusma Salsabil	A	Selasa, Sesi 1	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241068	Paundra Dwi Mulya	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241069	Petrus Aditya	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241070	Rachel Justicia	A	Selasa, Sesi 1	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241071	Raditya Ariza	B	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241072	Rafi' Anwar	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241073	Rafy Alfriz Putra Failan	A	Selasa, Sesi 1	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241074	Raid Akmal Hafidz Zulkarnaen	B	Senin, Sesi 3	P	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241075	Rangga Pramudya Suta Wijaya	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241076	Reval Ryan Andika	A	Selasa, Sesi 1	Q	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241077	Revano Vanessa	B	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241078	Reza Ahmad	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241079	Ridho Fahrizal Sunarto	A	Selasa, Sesi 1	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241080	Rifky Nur Ardiansyah	B	Senin, Sesi 3	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241081	Rivaldo Vito Timoteus Butarbutar	C	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241082	Roro Theonq Abinaya Azizah	A	Selasa, Sesi 1	S	Selasa, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241083	Sahal	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241084	Sri Lestari	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241085	Tegar Prawira Sastra	A	Selasa, Sesi 1	Q	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241086	Try Surya Adi Pratama	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241087	Viktoria Sibandang Simaremare	C	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241088	Virga Johnatan Simbolon	A	Selasa, Sesi 1	S	Selasa, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241089	Yosan Budianto	B	Senin, Sesi 3	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241090	Yunitasari	B	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	C	Senin, Sesi 2	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241091	Zakiy Naufal Pradipa	A	Selasa, Sesi 1	P	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2

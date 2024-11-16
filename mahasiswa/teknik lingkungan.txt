@@ -1,0 +1,83 @@
+Bahasa Indonesia (KU201102)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Pancasila (KU201101)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Hidrologi dan Geohidrologi (TL201401)		Menggambar Teknik (TL201403)	
+13241001	Abhiseka Ramdhan Primosunu	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241002	Aden Akhmad Al-Kahfi	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241003	Afrilia Natasya Sore	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241004	Ahmad Chaeril	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241005	Ahmad Naufal Zaky	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241006	Ainnaiya Hafiizh Pramesdani	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241007	Aliya Nur Azizah	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241008	Alma Aisah Novianti	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	F	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241009	Amrianova Atallia Renata	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	G	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241010	Amrina Rosyada	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	H	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241011	Andi Rachel Salsabila	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	D	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241012	Aprilian	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	E	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241013	Aqhila Nur Syahira	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	F	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241014	Ariq Mu'adz Muyassar	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	G	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241015	Asti Ester Shellomita Pasaribu	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	H	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241016	Azarya.G.Mahan	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241017	Bagas Prasetyo	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241018	Baruchsena Zacky Abrar	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241019	Bunga Citra Lestari	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241020	Bunga Maulini	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241021	Cika Aulia Salsabila	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241022	Dea Rahma Aqilah	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241023	Desita Piri	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	F	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241024	Dhafadillah Noor	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	G	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241025	Didik Widya Asmara	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	H	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241026	Dita Fitria Cahyani	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	D	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241027	Diva Naya Todingdatu	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	E	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241028	Dwindri Kayla Engelica Lawa	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	F	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241029	Farah Nanda Salsabilah	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	G	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241030	Farid Maulana Syachputra	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	H	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241031	Fathia Sabrina Bhalqis	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241032	Fatimah Nisrina Azzahrah	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241033	Febrianto Wijaya	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241034	Frederikha Mariasti Sattu	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241035	Grace Septania Toding	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241036	Indry Nurachmadany	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241037	Iqbal Khusairi	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241038	Irfani Rosa Maulana	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	F	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241039	Ivan Lorenzo Pardosi	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	G	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241040	Joan Paulina Pasaribu	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	H	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241041	Kesya Ayomi Herawati Saragih	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	D	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241042	Keyshamara Chirillydya Humaira	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	E	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241043	Lathiif Al Fajri	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	F	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241044	Laurensia Yovita Oki	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	G	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241045	Lintang Ayu Rahmadani	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	H	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241046	Marizka Ayundari	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241047	Marshall Anugra Januarta Marbun	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241048	Muhammad Fathur Rachmadandy	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241049	Muhammad Firly Baihaqi	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241050	Muhammad Hafizh Aswan	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241051	Muhammad Ilham Zaky	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241052	Muhammad Iqbal Nashwan	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241053	Muhammad Naufaldy Azis	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	F	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241054	Muhammad Renaldi Putra Siregar	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	G	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241055	Nadia Friecheila Kailola	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	H	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241056	Naifah Aisha Azzahra	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	D	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241057	Najwa Sarisha Arifin	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	E	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241058	Nanda Dita Anjarwati	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	F	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241059	Nariswari Destiny Ichsan Putri	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	G	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241060	Natanael Djuliestie Imanuel Vicries Kalangie	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	H	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241061	Naufal Arif Budianto	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241062	Nur Halija	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241063	Putra Rizki	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241064	Radit Ahmad Kurnia	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241065	Rafi Ahmad	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241066	Rasyita Ratu Balqis Setiawan	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241067	Rayana Bintang Putra Aditama	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241068	Ridho Prambudi Setiawan	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	F	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241069	Rini Anggraeni	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	G	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241070	Rio Ali Saputra	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	H	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241071	Salwa Al-Zahra	I	Jumat, Sesi 2	T	Selasa, Sesi 1	S	Senin, Sesi 1	D	Rabu, Sesi 3	M	Kamis, Sesi 2	T	Selasa, Sesi 4	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241072	Seli Rahmadani	G	Rabu, Sesi 4	U	Selasa, Sesi 1	T	Senin, Sesi 1	E	Rabu, Sesi 3	N	Kamis, Sesi 2	U	Selasa, Sesi 3	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241073	Selma Salsabila	H	Rabu, Sesi 4	V	Selasa, Sesi 1	U	Senin, Sesi 1	F	Rabu, Sesi 3	O	Senin, Sesi 2	V	Selasa, Sesi 3	F	Kamis, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241074	Shakila Iqlina Fatimatuzzahra	I	Jumat, Sesi 2	S	Selasa, Sesi 1	S	Senin, Sesi 1	G	Rabu, Sesi 3	M	Kamis, Sesi 2	S	Selasa, Sesi 4	G	Jum'at, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241075	Shifa Fabillah	G	Rabu, Sesi 4	T	Selasa, Sesi 1	T	Senin, Sesi 1	H	Rabu, Sesi 3	N	Kamis, Sesi 2	T	Selasa, Sesi 4	H	Jum'at, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241076	Sinthia Lince Meyana Sitinjak	H	Rabu, Sesi 4	U	Selasa, Sesi 1	U	Senin, Sesi 1	D	Rabu, Sesi 3	O	Senin, Sesi 2	U	Selasa, Sesi 3	D	Kamis, Sesi 1	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241077	Siti Norjanah	I	Jumat, Sesi 2	V	Selasa, Sesi 1	S	Senin, Sesi 1	E	Rabu, Sesi 3	M	Kamis, Sesi 2	V	Selasa, Sesi 3	E	Kamis, Sesi 3	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241078	Sultan	G	Rabu, Sesi 4	S	Selasa, Sesi 1	T	Senin, Sesi 1	F	Rabu, Sesi 3	N	Kamis, Sesi 2	S	Selasa, Sesi 4	F	Kamis, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241079	Tasbika Dwi Aulia	H	Rabu, Sesi 4	T	Selasa, Sesi 1	U	Senin, Sesi 1	G	Rabu, Sesi 3	O	Senin, Sesi 2	T	Selasa, Sesi 4	G	Jum'at, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241080	Tasya Kirani Chairunisa	I	Jumat, Sesi 2	U	Selasa, Sesi 1	S	Senin, Sesi 1	H	Rabu, Sesi 3	M	Kamis, Sesi 2	U	Selasa, Sesi 3	H	Jum'at, Sesi 4	B	Rabu, Sesi 1	B	Senin, Sesi 3
+13241081	Tasya Putri Novianti	G	Rabu, Sesi 4	V	Selasa, Sesi 1	T	Senin, Sesi 1	D	Rabu, Sesi 3	N	Kamis, Sesi 2	V	Selasa, Sesi 3	D	Kamis, Sesi 1	A	Senin, Sesi 3	A	Rabu, Sesi 1
+13241082	Zahrah Najwa Sarahah	H	Rabu, Sesi 4	S	Selasa, Sesi 1	U	Senin, Sesi 1	E	Rabu, Sesi 3	O	Senin, Sesi 2	S	Selasa, Sesi 4	E	Kamis, Sesi 3	B	Rabu, Sesi 1	B	Senin, Sesi 3
