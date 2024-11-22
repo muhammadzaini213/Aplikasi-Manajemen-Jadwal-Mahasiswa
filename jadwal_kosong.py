@@ -1,6 +1,3 @@
-import tkinter as tk
-from tkinter import ttk
-
 def fixFormat(path):
     dataMahasiswa = open(path, "r")
     data = dataMahasiswa.read()
@@ -32,15 +29,6 @@ def sorting(listSesi):
                     listSesiSorted.append(listSesi[k])
 
     return listSesiSorted
-
-def menuAwal(pil, listJadwal):
-    if(pil == "1"):
-        jadwalNIM(listJadwal)
-        print("1. Jadwal\n2. Edit Jadwal\n3. Cek List")
-        menuAwal(input(""), listJadwal)
-    else:
-        print("1. Jadwal\n2. Edit Jadwal\n3. Cek List")
-        menuAwal(input(""), listJadwal)
 
 def jadwalNIM(listJadwal, text):
     found = False
@@ -88,23 +76,25 @@ def jadwalKosong(listJadwal):
         listJadwalKosong.append(listJadwal[kolom-1])
         listJadwalKosong.append(order)
 
-    jadwalKosongSesi(listJadwalKosong)
+    return listJadwalKosong
 
-def jadwalKosongNIM(jadwalKosong):
-    find = input("Cari NIM/Nama?")
+def jadwalKosongNIM(jadwalKosong, find):
     found = False
+    jadwalKosongDitemukan = ""
     for i in range (0, len(jadwalKosong), 2):
         if (find.lower() in jadwalKosong[i].lower()):
-            print(f"{jadwalKosong[i]}")
+            jadwalKosongDitemukan = f"{jadwalKosongDitemukan}{jadwalKosong[i]}\n"
             for j in range (0, len(jadwalKosong[i+1])):
                 if(jadwalKosong[i+1][j]):
-                    print(jadwalKosong[i+1][j])
+                    jadwalKosongDitemukan = f"{jadwalKosongDitemukan}{jadwalKosong[i+1][j]}\n"
                     found = True
     if(found == False):
-        print("Tidak ditemukan.")
+        return "Tidak ditemukan"
+    else:
+        return jadwalKosongDitemukan
 
-
-def jadwalKosongBersama(jadwalKosong):
+def jadwalKosongProdi(jadwalKosong):
+    jadwalKosongProdiDitemukan = ""
     order = ["Senin, Sesi 1",
         "Senin, Sesi 2",
         "Senin, Sesi 3",
@@ -137,9 +127,11 @@ def jadwalKosongBersama(jadwalKosong):
                     count[i] = count[i] + 1
 
     for list in range(0,20):
-        print(f"{order[list]}: {count[list]} mahasiswa kosong")
+        jadwalKosongProdiDitemukan = f"{jadwalKosongProdiDitemukan}{order[list]}: {count[list]} mahasiswa kosong\n"
+
+    return jadwalKosongProdiDitemukan
     
-def jadwalKosongSesi(jadwalKosong):
+def jadwalKosongSesi(jadwalKosong, sesi):
     order = ["Senin, Sesi 1",
         "Senin, Sesi 2",
         "Senin, Sesi 3",
@@ -160,10 +152,16 @@ def jadwalKosongSesi(jadwalKosong):
         "Jumat, Sesi 2",
         "Jumat, Sesi 3",
         "Jumat, Sesi 4",]
+    
+    jadwalKosongSesiDitemukan = ""
     for i in range(1, len(jadwalKosong), 2):
-        if(order[2] in jadwalKosong[i]):
-            print(jadwalKosong[i-1])
+        if(sesi in jadwalKosong[i]):
+            jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{jadwalKosong[i-1]}\n"
 
+    if(jadwalKosongSesiDitemukan == ""):
+        return f"Tidak ada mahasiswa kosong saat {sesi}"
+    else:
+        return jadwalKosongSesiDitemukan
 
 listJadwal = []
 
@@ -205,123 +203,216 @@ def openData(path):
 
 openData("mahasiswa/fisika.txt")
 
-# Initialize the main application window
+
 import tkinter as tk
 from tkinter import ttk
 
 root = tk.Tk()
 root.title("Aplikasi Manajemen Jadwal")
-root.state('zoomed')  # Maximize window but keep title bar
+root.state('zoomed') 
 
-# Define a function to log input text each time a key is released
-def search_input(event):
-    input_value = input_text.get()
-    response_label.config(text=jadwalNIM(listJadwal, input_value))  # Update label with search result
 
-# Define the function to show the "Lihat Jadwal" form
-def show_lihat_jadwal():
-    button_frame.pack_forget()  # Hide the button frame
-    input_frame.pack(expand=True)  # Show the input frame
-
-# Define the function to return to the main button layout (optional)
-def back_to_menu():
-    input_frame.pack_forget()  # Hide the input frame
-    button_frame.pack(expand=True)  # Show the button frame
-
-# Define the function for "Jadwal Kosong" button
-def show_jadwal_kosong():
-    button_frame.pack_forget()  # Hide the main button layout
-    jadwal_kosong_frame.pack(expand=True)  # Show the "Jadwal Kosong" options
-
-# Functions for the "Jadwal Kosong" options
-def show_jadwal_kosong_individu():
-    response_label.config(text="Menampilkan Jadwal Kosong Individu")
-
-def show_jadwal_kosong_prodi():
-    response_label.config(text="Menampilkan Jadwal Kosong Prodi")
-
-def show_jadwal_kosong_sesi():
-    response_label.config(text="Menampilkan Jadwal Kosong Sesi")
-
-# Function to return to main menu from "Jadwal Kosong"
-def back_to_main_menu():
-    jadwal_kosong_frame.pack_forget()  # Hide the "Jadwal Kosong" options
-    button_frame.pack(expand=True)  # Show the main button layout
-
-# Set font for buttons and labels
 button_font = ("Helvetica", 18)
 label_font = ("Helvetica", 16)
 
-# Create a frame to hold the buttons and center it vertically
-button_frame = tk.Frame(root)
-button_frame.pack(expand=True)
+frame_menu_awal = tk.Frame(root)
+frame_menu_awal.pack(expand=True)
 
-# Create the main buttons
-button1 = tk.Button(button_frame, text="Lihat Jadwal", font=button_font, command=show_lihat_jadwal)
-button1.pack(fill=tk.X, pady=10, padx=50)
+def back_to_menu():
+    frame_lihat_jadwal.pack_forget()
+    frame_jadwal_kosong_opsi.pack_forget()  
+    frame_menu_awal.pack(expand=True)  
 
-button2 = tk.Button(button_frame, text="Jadwal Kosong", font=button_font, command=show_jadwal_kosong)
-button2.pack(fill=tk.X, pady=10, padx=50)
+# Menu Awal
+def menu_lihat_jadwal():
+    frame_menu_awal.pack_forget()  
+    frame_lihat_jadwal.pack(expand=True)  
+    input_lihat_jadwal.bind("<KeyRelease>", search_input_jadwal_NIM)
 
-button3 = tk.Button(button_frame, text="Edit Jadwal", font=button_font, command=lambda: print("Edit Jadwal"))
-button3.pack(fill=tk.X, pady=10, padx=50)
+def menu_jadwal_kosong():
+    frame_menu_awal.pack_forget()  
+    frame_jadwal_kosong_opsi.pack(expand=True)  
 
-button4 = tk.Button(button_frame, text="Cek List", font=button_font, command=lambda: print("Cek List"))
-button4.pack(fill=tk.X, pady=10, padx=50)
+lihat_jadwal_btn = tk.Button(frame_menu_awal, text="Lihat Jadwal", font=button_font, command=menu_lihat_jadwal)
+lihat_jadwal_btn.pack(fill=tk.X, pady=10, padx=50)
+jadwal_kosong_btn = tk.Button(frame_menu_awal, text="Jadwal Kosong", font=button_font, command=menu_jadwal_kosong)
+jadwal_kosong_btn.pack(fill=tk.X, pady=10, padx=50)
+edit_jadwal_btn = tk.Button(frame_menu_awal, text="Edit Jadwal", font=button_font, command=lambda: print("Edit Jadwal"))
+edit_jadwal_btn.pack(fill=tk.X, pady=10, padx=50)
+cek_list_btn = tk.Button(frame_menu_awal, text="Cek List", font=button_font, command=lambda: print("Cek List"))
+cek_list_btn.pack(fill=tk.X, pady=10, padx=50)
+# Menu Awal
 
-# Create the "Lihat Jadwal" input frame
-input_frame = tk.Frame(root)
+# Lihat Jadwal
+def ubah_prodi_lihat_jadwal(event):
+    prodi_dipilih = lihat_jadwal_prodi_combobox.get()
+    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
 
-# Input field and label for the "Lihat Jadwal" form
-input_label = tk.Label(input_frame, text="Masukkan Jadwal:", font=label_font)
-input_label.pack(pady=(20, 10))
+def search_input_jadwal_NIM(event):
+    input_value = input_lihat_jadwal.get()
+    label_hasil_pencarian_lihat_jadwal.config(text=jadwalNIM(listJadwal, input_value))
 
-input_dropdown_frame = tk.Frame(input_frame)
-input_dropdown_frame.pack(pady=(0, 20), padx=50, fill=tk.X)
+frame_lihat_jadwal = tk.Frame(root)
+label_lihat_jadwal = tk.Label(frame_lihat_jadwal, text="Masukkan Nama/NIM untuk mencari jadwal matkul", font=label_font)
+label_lihat_jadwal.pack(pady=(20, 10))
+frame_dropdown_prodi = tk.Frame(frame_lihat_jadwal)
+frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
+lihat_jadwal_prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=label_font, state="readonly")
+lihat_jadwal_prodi_combobox['values'] = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"]  
+lihat_jadwal_prodi_combobox.set("Pilih Prodi")
+lihat_jadwal_prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
+lihat_jadwal_prodi_combobox.bind("<<ComboboxSelected>>", ubah_prodi_lihat_jadwal)
+input_lihat_jadwal = tk.Entry(frame_lihat_jadwal, font=label_font)
+input_lihat_jadwal.pack(pady=(0, 20), padx=50, fill=tk.X)
+label_hasil_pencarian_lihat_jadwal = tk.Label(frame_lihat_jadwal, text="Hasil pencarian akan ditampilkan di sini", font=label_font)
+label_hasil_pencarian_lihat_jadwal.pack(pady=10)
+frame_tombol_kembali = tk.Frame(frame_lihat_jadwal)
+frame_tombol_kembali.pack(pady=(20, 10))
+kembali_btn = tk.Button(frame_tombol_kembali, text="Kembali", font=button_font, command=back_to_menu)
+kembali_btn.pack(side=tk.LEFT, padx=(0, 10))
+# Lihat Jadwal
 
-prodi_combobox = ttk.Combobox(input_dropdown_frame, font=label_font, state="readonly")
-prodi_combobox['values'] = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"]  # Dropdown options
-prodi_combobox.set("Pilih Prodi")  # Default text
-prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
 
-def on_prodi_changed(event):
-    selected_prodi = prodi_combobox.get()
-    openData(f"mahasiswa/{selected_prodi.lower()}.txt")
+# Jadwal Kosong Opsi
+def cari_jadwal_kosong_individu(event):
+    input_value = input_jadwal_kosong_individu.get()
+    label_hasil_pencarian_jadwal_kosong_individu.config(text=jadwalKosongNIM(jadwalKosong(listJadwal), input_value))
 
-prodi_combobox.bind("<<ComboboxSelected>>", on_prodi_changed)
+def menu_jadwal_kosong_individu():
+    frame_jadwal_kosong_individu.pack(expand=True)  
+    frame_jadwal_kosong_opsi.pack_forget() 
+    input_jadwal_kosong_individu.bind("<KeyRelease>", cari_jadwal_kosong_individu)
 
-input_text = tk.Entry(input_frame, font=label_font)
-input_text.pack(pady=(0, 20), padx=50, fill=tk.X)
+def show_jadwal_kosong_prodi():
+    frame_jadwal_kosong_prodi.pack(expand=True)
+    frame_jadwal_kosong_opsi.pack_forget() 
 
-input_text.bind("<KeyRelease>", search_input)
+def show_jadwal_kosong_sesi():
+    frame_jadwal_kosong_opsi.pack_forget() 
+    frame_jadwal_kosong_sesi.pack(expand=True)
 
-response_label = tk.Label(input_frame, text="Hasil pencarian akan ditampilkan di sini", font=label_font)
-response_label.pack(pady=10)
+frame_jadwal_kosong_opsi = tk.Frame(root)
+jadwal_kosong_individu_btn = tk.Button(frame_jadwal_kosong_opsi, text="Jadwal Kosong Individu", font=button_font, command=menu_jadwal_kosong_individu)
+jadwal_kosong_individu_btn.pack(fill=tk.X, pady=10, padx=50)
+jadwal_kosong_prodi_btn = tk.Button(frame_jadwal_kosong_opsi, text="Jadwal Kosong Prodi", font=button_font, command=show_jadwal_kosong_prodi)
+jadwal_kosong_prodi_btn.pack(fill=tk.X, pady=10, padx=50)
+jadwal_kosong_sesi_btn = tk.Button(frame_jadwal_kosong_opsi, text="Jadwal Kosong Sesi", font=button_font, command=show_jadwal_kosong_sesi)
+jadwal_kosong_sesi_btn.pack(fill=tk.X, pady=10, padx=50)
+kembali_btn = tk.Button(frame_jadwal_kosong_opsi, text="Kembali", font=button_font, command=back_to_menu)
+kembali_btn.pack(side=tk.LEFT, padx=(0, 10), pady=20)
+# Jadwal Kosong Opsi
 
-button_frame_bottom = tk.Frame(input_frame)
-button_frame_bottom.pack(pady=(20, 10))
 
-back_button = tk.Button(button_frame_bottom, text="Kembali", font=button_font, command=back_to_menu)
-back_button.pack(side=tk.LEFT, padx=(0, 10))
+def kembali_ke_menu_jadwal_kosong():
+    frame_jadwal_kosong_opsi.pack(expand=True)  
+    frame_jadwal_kosong_individu.pack_forget()
+    frame_jadwal_kosong_prodi.pack_forget()
+    frame_jadwal_kosong_sesi.pack_forget()
 
-# Create the frame for the "Jadwal Kosong" options
-jadwal_kosong_frame = tk.Frame(root)
+# Jadwal Kosong Individu
+def ubah_prodi_jadwal_kosong_individu(event):
+    prodi_dipilih = jadwal_kosong_individu_prodi_combobox.get()
+    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
+frame_jadwal_kosong_individu = tk.Frame(root)
+label_jadwal_kosong_individu = tk.Label(frame_jadwal_kosong_individu, text="Masukkan Nama/NIM untuk mencari jadwal kosong", font=label_font)
+label_jadwal_kosong_individu.pack(pady=(20, 10))
+frame_dropdown_prodi = tk.Frame(frame_jadwal_kosong_individu)
+frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
+jadwal_kosong_individu_prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=label_font, state="readonly")
+jadwal_kosong_individu_prodi_combobox['values'] = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"]  
+jadwal_kosong_individu_prodi_combobox.set("Pilih Prodi")
+jadwal_kosong_individu_prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
+jadwal_kosong_individu_prodi_combobox.bind("<<ComboboxSelected>>", ubah_prodi_jadwal_kosong_individu)
+input_jadwal_kosong_individu = tk.Entry(frame_jadwal_kosong_individu, font=label_font)
+input_jadwal_kosong_individu.pack(pady=(0, 20), padx=50, fill=tk.X)
+label_hasil_pencarian_jadwal_kosong_individu = tk.Label(frame_jadwal_kosong_individu, text="Hasil pencarian akan ditampilkan di sini", font=label_font)
+label_hasil_pencarian_jadwal_kosong_individu.pack(pady=10)
+frame_tombol_kembali = tk.Frame(frame_jadwal_kosong_individu)
+frame_tombol_kembali.pack(pady=(20, 10))
+kembali_btn = tk.Button(frame_tombol_kembali, text="Kembali", font=button_font, command=kembali_ke_menu_jadwal_kosong)
+kembali_btn.pack(side=tk.LEFT, padx=(0, 10))
+# Jadwal Kosong Individu
 
-# New buttons for Jadwal Kosong options
-button1_kosong = tk.Button(jadwal_kosong_frame, text="Jadwal Kosong Individu", font=button_font, command=show_jadwal_kosong_individu)
-button1_kosong.pack(fill=tk.X, pady=10, padx=50)
+# Jadwal Kosong Prodi
+def ubah_prodi_jadwal_kosong_prodi(event):
+    prodi_dipilih = jadwal_kosong_prodi_prodi_combobox.get()
+    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
+    label_hasil_pencarian_jadwal_kosong_prodi.config(text=jadwalKosongProdi(jadwalKosong(listJadwal)))
+frame_jadwal_kosong_prodi = tk.Frame(root)
+label_jadwal_kosong_prodi = tk.Label(frame_jadwal_kosong_prodi, text="Masukkan Nama/NIM untuk mencari jadwal kosong prodi", font=label_font)
+label_jadwal_kosong_prodi.pack(pady=(20, 10))
+frame_dropdown_prodi = tk.Frame(frame_jadwal_kosong_prodi)
+frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
+jadwal_kosong_prodi_prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=label_font, state="readonly")
+jadwal_kosong_prodi_prodi_combobox['values'] = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"]  
+jadwal_kosong_prodi_prodi_combobox.set("Pilih Prodi")
+jadwal_kosong_prodi_prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
+jadwal_kosong_prodi_prodi_combobox.bind("<<ComboboxSelected>>", ubah_prodi_jadwal_kosong_prodi)
+label_hasil_pencarian_jadwal_kosong_prodi = tk.Label(frame_jadwal_kosong_prodi, text="Hasil pencarian akan ditampilkan di sini", font=label_font)
+label_hasil_pencarian_jadwal_kosong_prodi.pack(pady=10)
+frame_tombol_kembali = tk.Frame(frame_jadwal_kosong_prodi)
+frame_tombol_kembali.pack(pady=(20, 10))
+kembali_btn = tk.Button(frame_tombol_kembali, text="Kembali", font=button_font, command=kembali_ke_menu_jadwal_kosong)
+kembali_btn.pack(side=tk.LEFT, padx=(0, 10))
+# Jadwal Kosong Prodi
 
-button2_kosong = tk.Button(jadwal_kosong_frame, text="Jadwal Kosong Prodi", font=button_font, command=show_jadwal_kosong_prodi)
-button2_kosong.pack(fill=tk.X, pady=10, padx=50)
 
-button3_kosong = tk.Button(jadwal_kosong_frame, text="Jadwal Kosong Sesi", font=button_font, command=show_jadwal_kosong_sesi)
-button3_kosong.pack(fill=tk.X, pady=10, padx=50)
+# Jadwal Kosong Sesi
+def ubah_prodi_jadwal_kosong_sesi(event):
+    prodi_dipilih = jadwal_kosong_sesi_prodi_combobox.get()
+    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
+def ubah_sesi_jadwal_kosong_sesi(event):
+    sesi_dipilih = jadwal_kosong_sesi_sesi_combobox.get()
+    label_hasil_pencarian_jadwal_kosong_sesi.config(text=jadwalKosongSesi(jadwalKosong(listJadwal), sesi_dipilih))
 
-# Back button for returning to main menu from "Jadwal Kosong"
-back_button_kosong = tk.Button(jadwal_kosong_frame, text="Kembali", font=button_font, command=back_to_main_menu)
-back_button_kosong.pack(side=tk.LEFT, padx=(0, 10), pady=20)
+frame_jadwal_kosong_sesi = tk.Frame(root)
+label_jadwal_kosong_sesi = tk.Label(frame_jadwal_kosong_sesi, text="Masukkan Nama/NIM untuk mencari jadwal kosong prodi", font=label_font)
+label_jadwal_kosong_sesi.pack(pady=(20, 10))
+frame_dropdown_prodi = tk.Frame(frame_jadwal_kosong_sesi)
+frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
+jadwal_kosong_sesi_prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=label_font, state="readonly")
+jadwal_kosong_sesi_prodi_combobox['values'] = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"]  
+jadwal_kosong_sesi_prodi_combobox.set("Pilih Prodi")
+jadwal_kosong_sesi_prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
+jadwal_kosong_sesi_prodi_combobox.bind("<<ComboboxSelected>>", ubah_prodi_jadwal_kosong_sesi)
+jadwal_kosong_sesi_sesi_combobox = ttk.Combobox(frame_dropdown_prodi, font=label_font, state="readonly")
+jadwal_kosong_sesi_sesi_combobox['values'] = ["Senin, Sesi 1",
+        "Senin, Sesi 2",
+        "Senin, Sesi 3",
+        "Senin, Sesi 4",
+        "Selasa, Sesi 1",
+        "Selasa, Sesi 2",
+        "Selasa, Sesi 3",
+        "Selasa, Sesi 4",
+        "Rabu, Sesi 1",
+        "Rabu, Sesi 2",
+        "Rabu, Sesi 3",
+        "Rabu, Sesi 4",
+        "Kamis, Sesi 1",
+        "Kamis, Sesi 2",
+        "Kamis, Sesi 3",
+        "Kamis, Sesi 4",
+        "Jumat, Sesi 1",
+        "Jumat, Sesi 2",
+        "Jumat, Sesi 3",
+        "Jumat, Sesi 4"]  
+jadwal_kosong_sesi_sesi_combobox.set("Pilih Sesi")
+jadwal_kosong_sesi_sesi_combobox.pack(side=tk.LEFT, padx=(10, 0))
+jadwal_kosong_sesi_sesi_combobox.bind("<<ComboboxSelected>>", ubah_sesi_jadwal_kosong_sesi)
+
+label_hasil_pencarian_jadwal_kosong_sesi = tk.Label(frame_jadwal_kosong_sesi, text="Hasil pencarian akan ditampilkan di sini", font=label_font)
+label_hasil_pencarian_jadwal_kosong_sesi.pack(pady=10)
+frame_tombol_kembali = tk.Frame(frame_jadwal_kosong_sesi)
+frame_tombol_kembali.pack(pady=(20, 10))
+kembali_btn = tk.Button(frame_tombol_kembali, text="Kembali", font=button_font, command=kembali_ke_menu_jadwal_kosong)
+kembali_btn.pack(side=tk.LEFT, padx=(0, 10))
+# Jadwal Kosong Sesi
+
+
+
+# Cek List
+
+# Cek List
 
 root.mainloop()
 
-        
-        
