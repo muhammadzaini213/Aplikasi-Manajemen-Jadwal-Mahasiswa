@@ -71,7 +71,7 @@ Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU2
 09241069	Petrus Aditya	C	Senin, Sesi 3	P	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
 09241070	Rachel Justicia	A	Selasa, Sesi 1	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
 09241071	Raditya Ariza	B	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
-09241072	Rafi' Anwar	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
+09241072	Rafi Anwar	C	Senin, Sesi 3	R	Senin, Sesi 4	B	Selasa, Sesi 3	D	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
 09241073	Rafy Alfriz Putra Failan	A	Selasa, Sesi 1	S	Selasa, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	A	Senin, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
 09241074	Raid Akmal Hafidz Zulkarnaen	B	Senin, Sesi 3	P	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
 09241075	Rangga Pramudya Suta Wijaya	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	C	Jumat, Sesi 3	C	Jumat, Sesi 2
