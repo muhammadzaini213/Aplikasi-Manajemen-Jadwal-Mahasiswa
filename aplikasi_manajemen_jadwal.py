@@ -1,25 +1,5 @@
 listJadwal = []
 
-def fixFormat(path):
-    dataMahasiswa = open(path, "r")
-    data = dataMahasiswa.read()
-
-    with open (path, 'w') as file:
-        file.write(data.replace("'", ""))    
-
-def lining(file):
-    return file.read().split("\n")
-
-def splitColumn(string):
-    return string.split("\t")
-
-def listMatkul(line):
-    listMatkul = line[0]
-    listMatkul = listMatkul.replace("\t\t", "\t")
-    listMatkul = listMatkul.split("\t")
-    listMatkul = listMatkul[:-1]
-    return listMatkul
-
 def sorting(listSesi):
     listSesiSorted = []
     hari_order = ["Senin", "Selasa","Rabu","Kamis","Jumat"]
@@ -109,15 +89,13 @@ def jadwalKosongSesi(jadwalKosong, sesi):
         return jadwalKosongSesiDitemukan
 
 def openData(path):
-    fixFormat(path)
-
     with open(path, 'r') as file:
-        line = lining(file)
-        matkul = listMatkul(line)
+        line = file.read().split("\n")
+        matkul = line[0].replace("\t\t", "\t").split("\t")[:-1]
 
         listJadwal.clear()
         for mahasiswa in range (1, len(line)):
-            column = splitColumn(line[mahasiswa])
+            column = line[mahasiswa].split("\t")
             individu = column[0]
             nama = column[1]
             
