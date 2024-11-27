@@ -1,5 +1,4 @@
-Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		"Menggambar Teknik Pengantar CAD 
-(TP201402)"		Pengantar Teknologi Perkapalan (TP201401)	
+Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		Menggambar Teknik Pengantar CAD (TP201402)		Pengantar Teknologi Perkapalan (TP201401)	
 09241001	Aan Aniarta	C	Senin, Sesi 3	R	Senin, Sesi 4	A	Selasa, Sesi 3	A	Senin, Sesi 1	A	Rabu, Sesi 4	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
 09241002	Achmad Firdausi	B	Senin, Sesi 3	Q	Senin, Sesi 4	B	Selasa, Sesi 3	B	Senin, Sesi 1	B	Rabu, Sesi 4	B	Rabu, Sesi 3	B	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
 09241003	Aday Alfurqon	C	Senin, Sesi 3	Q	Senin, Sesi 4	A	Selasa, Sesi 3	C	Senin, Sesi 1	C	Senin, Sesi 2	C	Kamis, Sesi 3	A	Rabu, Sesi 1	A	Kamis, Sesi 1	A	Rabu, Sesi 2
