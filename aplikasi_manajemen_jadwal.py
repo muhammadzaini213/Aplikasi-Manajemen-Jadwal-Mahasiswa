@@ -109,6 +109,8 @@ def openData(path):
 
 openData("mahasiswa/fisika.txt")
 
+
+# Materi 1
 import tkinter as tk
 from tkinter import ttk
 
@@ -119,7 +121,7 @@ font = ("Helvetica", 15)
 frame = tk.Frame(root)
 frame_dropdown_prodi = tk.Frame(frame)
 frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
-label= tk.Label(frame, text="Masukkan Nama/NIM untuk mencari jadwal matkul", font=font)
+label= tk.Label(frame, text="Masukkan Nama/NIM untuk mencari", font=font)
 label.pack(pady=(20, 10))
 prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=font, state="readonly")
 prodi_combobox['values'] = listProdi
@@ -142,6 +144,8 @@ text_hasil_pencarian.config(state=tk.DISABLED)
 
 frame_tombol_kembali = tk.Frame(frame)
 frame_tombol_kembali.pack(pady=(20, 10))
+
+# Materi 1
 
 def back_to_menu():
     frame.pack_forget()
@@ -215,14 +219,10 @@ def menu_edit(row_data):
 
     canvas = tk.Canvas(edit_window)
     canvas.pack(side="left", fill="both", expand=True)
-
     scrollbar = tk.Scrollbar(canvas, orient="horizontal", command=canvas.xview)
     scrollbar.pack(side="bottom", fill="x") 
-
     canvas.configure(xscrollcommand=scrollbar.set)
-
     content_frame = tk.Frame(canvas)
-
     canvas.create_window((0, 0), window=content_frame, anchor="nw")
 
     tree = ttk.Treeview(content_frame, columns=kolom_tabel , show='headings')
@@ -261,9 +261,7 @@ def show_popup(event):
     popup.add_command(label="Delete", command=lambda: ubahData(formatted_values, ""))
     popup.post(event.x_root, event.y_root)
 
-
 kolom_tabel = []
-
 
 def gantiTeks(output_teks):
     clean_result = "\n".join(line for line in output_teks.splitlines() if line.strip())
@@ -271,8 +269,7 @@ def gantiTeks(output_teks):
     text_hasil_pencarian.delete("1.0", tk.END)
     text_hasil_pencarian.insert(tk.END, clean_result)
     text_hasil_pencarian.config(state=tk.DISABLED)
-    text_hasil_pencarian.yview_moveto(0)  
-    
+    text_hasil_pencarian.yview_moveto(0)   
 
 def ganti_prodi_edit(event):
     openEditor()
@@ -290,7 +287,6 @@ def cek_individu_dalam_list(event):
     input_value = input.get()
     gantiTeks(cekList(listJadwal, input_value))
     
-
 def cekList(listJadwal, list):
     tidakDitemukan = "NIM yang belum list:\n"
     for i in range(0, len(listJadwal), 2):
@@ -341,6 +337,9 @@ def openEditor():
 
 dropdown.bind("<<ComboboxSelected>>", ganti_prodi_edit)
 
+
+
+# Materi 1
 frame_menu_awal = tk.Frame(root)
 frame_menu_awal.pack(expand=True)
 buatTombol(frame_menu_awal, "Lihat Jadwal",lambda: openTools(cari_jadwal_individu, ubah_prodi, None))
