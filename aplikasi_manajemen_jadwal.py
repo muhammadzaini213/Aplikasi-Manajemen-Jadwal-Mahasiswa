@@ -293,7 +293,6 @@ def cari_jadwal_kosong_individu(event):
     input_value = input.get()
     gantiTeks(jadwalKosongindividu(jadwalKosong(listJadwal), input_value))
 
-    
 def cek_individu_dalam_list(event):
     input_value = input.get()
     gantiTeks(cekList(listJadwal, input_value))
