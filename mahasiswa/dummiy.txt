@@ -1,1 +1,2 @@
 Algoritme Pemrograman (KU201218)		Bahasa Inggris (KU201219)		Fisika Dasar 1 (KU201211)		Kalkulus 1 (KU201209)		Kimia Dasar (KU201215)		Pancasila (KU201101)		Praktikum Algoritme Pemrograman (KU201218)		Praktikum Fisika Dasar 1 (KU201211)		Praktikum Kimia Dasar (KU201215)		Pengantar Informatika (IF201401)	
+11241015	Ariel	I	Jumat, Sesi 3	C	Selasa, Sesi 2	F	Senin, Sesi 1	E	Selasa, Sesi 3	B	Rabu, Sesi 3	G	Rabu, Sesi 2	I	Rabu, Sesi 1	F	Senin, Sesi 4	B	Rabu, Sesi 4	A	Kamis, Sesi 2  
