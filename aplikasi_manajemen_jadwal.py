@@ -1,9 +1,8 @@
 listJadwal = []
 
 # List
-listProdi = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual", "dummiy"] 
-
-listSesi = ["Senin, Sesi 1","Senin, Sesi 2","Senin, Sesi 3","Senin, Sesi 4","Selasa, Sesi 1","Selasa, Sesi 2","Selasa, Sesi 3","Selasa, Sesi 4","Rabu, Sesi 1","Rabu, Sesi 2","Rabu, Sesi 3","Rabu, Sesi 4","Kamis, Sesi 1","Kamis, Sesi 2","Kamis, Sesi 3","Kamis, Sesi 4","Jumat, Sesi 1","Jumat, Sesi 2","Jumat, Sesi 3","Jumat, Sesi 4",]
+prodi = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"] 
+sesi = ["Senin, Sesi 1","Senin, Sesi 2","Senin, Sesi 3","Senin, Sesi 4","Selasa, Sesi 1","Selasa, Sesi 2","Selasa, Sesi 3","Selasa, Sesi 4","Rabu, Sesi 1","Rabu, Sesi 2","Rabu, Sesi 3","Rabu, Sesi 4","Kamis, Sesi 1","Kamis, Sesi 2","Kamis, Sesi 3","Kamis, Sesi 4","Jumat, Sesi 1","Jumat, Sesi 2","Jumat, Sesi 3","Jumat, Sesi 4"]
 
 def sorting(listSesi):
     listSesiSorted = []
@@ -12,7 +11,7 @@ def sorting(listSesi):
     for i in range (0, len(hari_order)):
         for j in range (0, len(sesi_order)):
             for k in range(0, len(listSesi)):
-                if(listSesi[k].startswith(f"{hari_order[i]}, Sesi {sesi_order[j]}") or listSesi[k].startswith(f"{hari_order[i]} Sesi {sesi_order[j]}")):
+                if(listSesi[k].startswith(f"{hari_order[i]}, Sesi {sesi_order[j]}")):
                     listSesiSorted.append(listSesi[k])
     return listSesiSorted
 
@@ -32,7 +31,7 @@ def jadwalindividu(listJadwal, text):
 def jadwalKosong(listJadwal): 
     listJadwalKosong = []
     for kolom in range(1, len(listJadwal),2):
-        order = ["Senin, Sesi 1","Senin, Sesi 2","Senin, Sesi 3","Senin, Sesi 4","Selasa, Sesi 1","Selasa, Sesi 2","Selasa, Sesi 3","Selasa, Sesi 4","Rabu, Sesi 1","Rabu, Sesi 2","Rabu, Sesi 3","Rabu, Sesi 4","Kamis, Sesi 1","Kamis, Sesi 2","Kamis, Sesi 3","Kamis, Sesi 4","Jumat, Sesi 1","Jumat, Sesi 2","Jumat, Sesi 3","Jumat, Sesi 4",]
+        order = sesi.copy()
         for i in listJadwal[kolom]: 
             for j in order: 
                 if j in i: order.remove(j)
@@ -41,26 +40,12 @@ def jadwalKosong(listJadwal):
 
     return listJadwalKosong
 
-def jadwalKosongindividu(jadwalKosong, find):
-    found = False
-    jadwalKosongDitemukan = ""
-    for i in range (0, len(jadwalKosong), 2):
-        if (find.lower() in jadwalKosong[i].lower()):
-            jadwalKosongDitemukan = f"{jadwalKosongDitemukan}{jadwalKosong[i]}\n"
-            for j in range (0, len(jadwalKosong[i+1])):
-                if(jadwalKosong[i+1][j]):
-                    jadwalKosongDitemukan = f"{jadwalKosongDitemukan}{jadwalKosong[i+1][j]}\n"
-                    found = True
-    if(found == False): return "Tidak ditemukan" 
-    else:  return jadwalKosongDitemukan
-
 def jadwalKosongProdi(jadwalKosong):
     jadwalKosongProdiDitemukan = ""
-    order = ["Senin, Sesi 1","Senin, Sesi 2","Senin, Sesi 3","Senin, Sesi 4","Selasa, Sesi 1","Selasa, Sesi 2","Selasa, Sesi 3","Selasa, Sesi 4","Rabu, Sesi 1","Rabu, Sesi 2","Rabu, Sesi 3","Rabu, Sesi 4","Kamis, Sesi 1","Kamis, Sesi 2","Kamis, Sesi 3","Kamis, Sesi 4","Jumat, Sesi 1","Jumat, Sesi 2","Jumat, Sesi 3","Jumat, Sesi 4"]
+    order = sesi.copy()
     count = []
     for i in range(0,20):
         count.append(0)
-
     for i in range(0, len(order)):
         for j in range(1, len(jadwalKosong),2):
             for k in jadwalKosong[j]:
@@ -77,8 +62,7 @@ def jadwalKosongSesi(jadwalKosong, sesi):
     for i in range(1, len(jadwalKosong), 2):
         if(sesi in jadwalKosong[i]):
             jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{jadwalKosong[i-1]}\n"
-
-    if(jadwalKosongSesiDitemukan == ""): return f"Tidak ada mahasiswa kosong saat {sesi}"
+    if(jadwalKosongSesiDitemukan == ""): return f"Tidak ada mahasiswa prodi {dropdownCariProdiKosong.get()} yang kosong saat {sesi}"
     else: return jadwalKosongSesiDitemukan
 
 def openData(path):
@@ -108,9 +92,7 @@ def openData(path):
 
         return matkul
     
-
 openData("mahasiswa/fisika.txt")
-
 
 # Materi 1
 import tkinter as tk
@@ -121,68 +103,49 @@ root.title("Aplikasi Manajemen Jadwal")
 root.state('zoomed') 
 font = ("Helvetica", 15)
 
+frame_alat = tk.Frame(root)
+frame_menu_awal = tk.Frame(root)
+frame_menu_awal.pack(expand=True)
+frame_dropdown = tk.Frame(frame_alat)
+frame_dropdown.pack(pady=(0, 20), padx=50, fill=tk.X)
 
-frame = tk.Frame(root)
-
-frame_dropdown_prodi = tk.Frame(frame)
-frame_dropdown_prodi.pack(pady=(0, 20), padx=50, fill=tk.X)
-label= tk.Label(frame, text="Masukkan Nama/NIM untuk mencari", font=font)
-label.pack(pady=(20, 10))
-
-prodi_combobox = ttk.Combobox(frame_dropdown_prodi, font=font, state="readonly")
-prodi_combobox['values'] = listProdi
-prodi_combobox.set("Pilih Prodi")
-prodi_combobox.pack(side=tk.LEFT, padx=(10, 0))
-
-sesi_combobox = ttk.Combobox(frame_dropdown_prodi, font=font, state="readonly")
-sesi_combobox['values'] = listSesi
-sesi_combobox.set("Pilih Sesi")
-sesi_combobox.pack(side=tk.RIGHT, padx=(10, 0))
-
-input = tk.Entry(frame, font=font)
+input = tk.Entry(frame_alat, font=font)
 input.pack(pady=(0, 20), padx=50, fill=tk.X)
+def cekJadwalMahasiswa(event):
+    input_value = input.get()
+    gantiTeks(jadwalindividu(listJadwal, input_value))
+input.bind("<KeyRelease>", cekJadwalMahasiswa)
 
-frame_hasil_pencarian = tk.Frame(frame)
+dropdownUbahProdi = ttk.Combobox(frame_dropdown, font=font, state="readonly")
+dropdownCariProdiKosong = ttk.Combobox(frame_dropdown, font=font, state="readonly")
+dropdownJadwalKosongSesi = ttk.Combobox(frame_dropdown, font=font, state="readonly")
+
+frame_hasil_pencarian = tk.Frame(frame_alat)
 frame_hasil_pencarian.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
-
 scrollbar_hasil = ttk.Scrollbar(frame_hasil_pencarian, orient=tk.VERTICAL)
-text_hasil_pencarian = tk.Text(frame_hasil_pencarian, font=font, yscrollcommand=scrollbar_hasil.set, height=10, width=50)
+text_hasil_pencarian = tk.Text(frame_hasil_pencarian, font=font, yscrollcommand=scrollbar_hasil.set)
 scrollbar_hasil.config(command=text_hasil_pencarian.yview)
 text_hasil_pencarian.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
 scrollbar_hasil.pack(side=tk.RIGHT, fill=tk.Y)
-text_hasil_pencarian.config(state=tk.DISABLED)
 
-frame_tombol_kembali = tk.Frame(frame)
-frame_tombol_kembali.pack(pady=(20, 10))
-# Materi 1
-
-def back_to_menu():
-    frame.pack_forget() # ->>> Di hide 
-    tree_frame.pack_forget()
-    bottom_frame.pack_forget()
-    frame_jadwal_kosong_opsi.pack_forget()
-    frame_menu_awal.pack(expand=True)
-    
-def buatTombol(frame_tombol, teks, fungsi):
-    tombol = tk.Button(frame_tombol, text=teks, font=font, command=fungsi)
-    tombol.pack(fill=tk.X, pady=10, padx=50)
-
-def menu_jadwal_kosong():
-    frame_menu_awal.pack_forget()  
-    frame_jadwal_kosong_opsi.pack(expand=True) 
-
-
-# >>>> Materi 2
-def openTools(key, prodiComboboxAction, sesiComboboxAction):
+def openTools(option):
     frame_menu_awal.pack_forget() 
-    frame_jadwal_kosong_opsi.pack_forget() 
-    frame.pack(expand=True)  
-    input.bind("<KeyRelease>", key)
-    prodi_combobox.bind("<<ComboboxSelected>>", prodiComboboxAction)
-    sesi_combobox.bind("<<ComboboxSelected>>", sesiComboboxAction)
-    if key == None : input.unbind("<KeyRelease>")
-    if prodi_combobox == None : prodi_combobox.unbind("<<ComboboxSelected>>")
-    if sesi_combobox == None : sesi_combobox.unbind("<<ComboboxSelected>>")
+    frame_alat.pack(expand=True)  
+    if(option == 1):
+        input.pack(expand=True)
+        dropdownUbahProdi.pack(expand=True)
+        dropdownCariProdiKosong.pack_forget()
+        dropdownJadwalKosongSesi.pack_forget()
+    elif(option == 2):
+        input.pack_forget()
+        dropdownUbahProdi.pack_forget()
+        dropdownCariProdiKosong.pack(expand=True)
+        dropdownJadwalKosongSesi.pack(expand=True)
+    elif(option == 5):
+        frame_alat.pack_forget()
+        tree_frame.pack_forget()
+        bottom_frame.pack_forget()
+        frame_menu_awal.pack(expand=True)
     
 tree_frame = ttk.Frame(root)
 hsb = ttk.Scrollbar(tree_frame, orient="horizontal")
@@ -193,10 +156,8 @@ tree.configure(xscrollcommand=hsb.set)
 hsb.configure(command=tree.xview)
 
 bottom_frame = ttk.Frame(root)
-button = tk.Button(bottom_frame, text="Kembali", font=font, command=back_to_menu)
-button.pack(side="left", padx=40) 
 dropdown = ttk.Combobox(bottom_frame,font = font, state='readonly')
-dropdown['values'] = listProdi
+dropdown['values'] = sesi
 dropdown.pack(side="right", padx=40)
 dropdown.set("Fisika")
 
@@ -221,7 +182,6 @@ def ubahData(baris_tujuan, data_input):
         file.write(data.replace(baris_tujuan, data_input))
     openEditor()
 
-
 def menu_edit(row_data):
     edit_window = tk.Toplevel()
     edit_window.title("Edit Jadwal")
@@ -245,7 +205,7 @@ def menu_edit(row_data):
 
         if i > 2 and i % 2 != 0:
             edit_sesi = ttk.Combobox(content_frame, state="readonly")
-            edit_sesi['values'] = listSesi
+            edit_sesi['values'] = prodi
             edit_sesi.grid(row=1, column=i, padx=10, pady=5)
             edit_sesi.set(row_data[i])
             data.append(edit_sesi)
@@ -269,7 +229,7 @@ def show_popup(event):
     tree.selection_set(item_id)
     popup = tk.Menu(root, tearoff=0)
     popup.add_command(label="Edit", command=lambda: menu_edit(item_values))
-    popup.add_command(label="Delete", command=lambda: ubahData(f"{formatted_values}\n", ""))
+    popup.add_command(label="Hapus", command=lambda: ubahData(f"{formatted_values}\n", ""))
     popup.post(event.x_root, event.y_root)
 
 kolom_tabel = []
@@ -285,37 +245,15 @@ def gantiTeks(output_teks):
 def ganti_prodi_edit(event):
     openEditor()
 
-def cari_jadwal_individu(event):
-    input_value = input.get()
-    gantiTeks(jadwalindividu(listJadwal, input_value))
+def ubahProdi(event):
+    openData(f"mahasiswa/{dropdownUbahProdi.get().lower()}.txt")
 
-def cari_jadwal_kosong_individu(event):
-    input_value = input.get()
-    gantiTeks(jadwalKosongindividu(jadwalKosong(listJadwal), input_value))
-
-def cek_individu_dalam_list(event):
-    input_value = input.get()
-    gantiTeks(cekList(listJadwal, input_value))
-    
-def cekList(listJadwal, list):
-    tidakDitemukan = "NIM yang belum list:\n"
-    for i in range(0, len(listJadwal), 2):
-        if(listJadwal[i].split("-")[1][1:] not in list):
-            tidakDitemukan = f"{tidakDitemukan}{listJadwal[i]}\n"
-    return tidakDitemukan
-
-def ubah_prodi(event):
-    prodi_dipilih = prodi_combobox.get()
-    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
-
-def ubah_combobox_prodi(event):
-    prodi_dipilih = prodi_combobox.get()
-    openData(f"mahasiswa/{prodi_dipilih.lower()}.txt")
+def cekJadwalKosongProdi(event):
+    openData(f"mahasiswa/{dropdownCariProdiKosong.get().lower()}.txt")
     gantiTeks(jadwalKosongProdi(jadwalKosong(listJadwal)))
 
-def ubah_combobox_sesi(event):
-    sesi_dipilih = sesi_combobox.get()
-    gantiTeks(jadwalKosongSesi(jadwalKosong(listJadwal), sesi_dipilih))
+def cekSesiKosong(event):
+    gantiTeks(jadwalKosongSesi(jadwalKosong(listJadwal), dropdownJadwalKosongSesi.get()))
 
 def openEditor():
     global kolom_tabel
@@ -347,21 +285,24 @@ def openEditor():
 
 dropdown.bind("<<ComboboxSelected>>", ganti_prodi_edit)
 
+def buatTombol(frame_tombol, teks, fungsi):
+    tombol = tk.Button(frame_tombol, text=teks, font=font, command=fungsi)
+    tombol.pack(fill=tk.X, pady=10, padx=50)
 
+def buatDropdown(comboBox, values, text, fungsi):
+    comboBox['values'] = values
+    comboBox.set(text)
+    comboBox.pack(padx=(10, 0))
+    comboBox.bind("<<ComboboxSelected>>", fungsi)
 
-# Materi 1
-frame_menu_awal = tk.Frame(root)
-frame_menu_awal.pack(expand=True)
-buatTombol(frame_menu_awal, "Lihat Jadwal", lambda: openTools(cari_jadwal_individu, ubah_prodi, None))
-buatTombol(frame_menu_awal, "Jadwal Kosong", menu_jadwal_kosong)
+buatDropdown(dropdownUbahProdi, prodi, "Pilih Prodi", ubahProdi)
+buatDropdown(dropdownCariProdiKosong, prodi, "Cari Berdasarkan Prodi", cekJadwalKosongProdi)
+buatDropdown(dropdownJadwalKosongSesi, sesi, "Cari Berdasarkan Sesi", cekSesiKosong)
+
+buatTombol(frame_menu_awal, "Lihat Jadwal Matkul", lambda: openTools(1))
+buatTombol(frame_menu_awal, "Jadwal Kosong",lambda: openTools(2))
 buatTombol(frame_menu_awal, "Edit Jadwal",openEditor)
-buatTombol(frame_menu_awal, "Cek List", lambda: openTools(cek_individu_dalam_list, ubah_prodi, None))
-
-frame_jadwal_kosong_opsi = tk.Frame(root)
-buatTombol(frame_jadwal_kosong_opsi, "Jadwal Kosong Individu",lambda: openTools(cari_jadwal_kosong_individu, ubah_prodi, None))
-buatTombol(frame_jadwal_kosong_opsi, "Jadwal Kosong Prodi",lambda: openTools(None, ubah_combobox_prodi,None))
-buatTombol(frame_jadwal_kosong_opsi, "Jadwal Kosong Sesi",lambda: openTools(None, ubah_prodi, ubah_combobox_sesi))
-buatTombol(frame_jadwal_kosong_opsi, "Kembali", back_to_menu)
-buatTombol(frame_tombol_kembali, "Kembali", back_to_menu)
+buatTombol(frame_alat, "Kembali", lambda: openTools(5))
+buatTombol(bottom_frame, "Kembali", lambda: openTools(5))
 
 root.mainloop()
