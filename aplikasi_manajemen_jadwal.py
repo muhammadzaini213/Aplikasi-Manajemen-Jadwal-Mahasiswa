@@ -6,13 +6,10 @@ sesi = ["Senin, Sesi 1","Senin, Sesi 2","Senin, Sesi 3","Senin, Sesi 4","Selasa,
 
 def sorting(listSesi):
     listSesiSorted = []
-    hari_order = ["Senin", "Selasa","Rabu","Kamis","Jumat"]
-    sesi_order = ["1", "2", "3", "4"]
-    for i in range (0, len(hari_order)):
-        for j in range (0, len(sesi_order)):
-            for k in range(0, len(listSesi)):
-                if(listSesi[k].startswith(f"{hari_order[i]}, Sesi {sesi_order[j]}")):
-                    listSesiSorted.append(listSesi[k])
+    for urutan in range(0, len(sesi)):
+        for jadwalMahasiswa in range(0, len(listSesi)):
+            if(listSesi[jadwalMahasiswa].startswith(sesi[urutan])):
+                listSesiSorted.append(listSesi[jadwalMahasiswa])     
     return listSesiSorted
 
 def jadwalindividu(listJadwal, text):
@@ -28,43 +25,40 @@ def jadwalindividu(listJadwal, text):
     if(found == False): return "Tidak ditemukan."
     else: return(listDitemukan)
 
-def jadwalKosong(listJadwal): 
+def jadwalKosong(listJadwal, opsi): 
     listJadwalKosong = []
-    for kolom in range(1, len(listJadwal),2):
-        order = sesi.copy()
-        for i in listJadwal[kolom]: 
-            for j in order: 
-                if j in i: order.remove(j)
-        listJadwalKosong.append(listJadwal[kolom-1])
-        listJadwalKosong.append(order)
+    for indeksJadwal in range(1, len(listJadwal),2):
+        listSesiKosong = sesi.copy()
+        for jadwalMahasiswa in listJadwal[indeksJadwal]: 
+            for jadwalMatkul in listSesiKosong: 
+                if jadwalMatkul in jadwalMahasiswa: listSesiKosong.remove(jadwalMatkul)
+        listJadwalKosong.append(listJadwal[indeksJadwal-1])
+        listJadwalKosong.append(listSesiKosong)
 
-    return listJadwalKosong
+    if(opsi == 1):
+        jadwalKosongProdiDitemukan = ""
+        listSesi = sesi.copy()
+        count = []
+        for sesiAktif in range (0, len(listSesi)):
+            for mahasiswa in range(1, len(listJadwalKosong), 2):
+                for k in listJadwalKosong[mahasiswa]:
+                    count.append(0)
+                    if(listSesi[sesiAktif] in k): count[sesiAktif] = count[sesiAktif] + 1
 
-def jadwalKosongProdi(jadwalKosong):
-    jadwalKosongProdiDitemukan = ""
-    order = sesi.copy()
-    count = []
-    for i in range(0,20):
-        count.append(0)
-    for i in range(0, len(order)):
-        for j in range(1, len(jadwalKosong),2):
-            for k in jadwalKosong[j]:
-                if(order[i] in k):
-                    count[i] = count[i] + 1
-
-    for list in range(0,20):
-        jadwalKosongProdiDitemukan = f"{jadwalKosongProdiDitemukan}{order[list]}: {count[list]} mahasiswa kosong\n"
-
-    return jadwalKosongProdiDitemukan
+        for totalKosong in range (0, len(listSesi)):
+            jadwalKosongProdiDitemukan = f"{jadwalKosongProdiDitemukan}{listSesi[totalKosong]}: {count[totalKosong]} mahasiswa kosong\n"
+        return jadwalKosongProdiDitemukan
     
-def jadwalKosongSesi(jadwalKosong, sesi):
-    jadwalKosongSesiDitemukan = ""
-    for i in range(1, len(jadwalKosong), 2):
-        if(sesi in jadwalKosong[i]):
-            jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{jadwalKosong[i-1]}\n"
-    if(jadwalKosongSesiDitemukan == ""): return f"Tidak ada mahasiswa prodi {dropdownCariProdiKosong.get()} yang kosong saat {sesi}"
-    else: return jadwalKosongSesiDitemukan
-
+    elif(opsi == 2):
+        jadwalKosongSesiDitemukan = ""
+        for i in range(1, len(listJadwalKosong), 2):
+            if(dropdownJadwalKosongSesi.get() in listJadwalKosong[i]): 
+                jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{listJadwalKosong[i-1]}\n"
+        if(jadwalKosongSesiDitemukan == ""): 
+            return f"Tidak ada mahasiswa prodi {dropdownCariProdiKosong.get()} yang kosong saat {dropdownJadwalKosongSesi.get()}"
+        else: 
+            return jadwalKosongSesiDitemukan
+        
 def openData(path):
     with open(path, 'r') as file:
         line = file.read().split("\n")
@@ -147,6 +141,8 @@ def openTools(option):
         bottom_frame.pack_forget()
         frame_menu_awal.pack(expand=True)
     
+
+
 tree_frame = ttk.Frame(root)
 hsb = ttk.Scrollbar(tree_frame, orient="horizontal")
 hsb.pack(fill="x")
@@ -250,10 +246,10 @@ def ubahProdi(event):
 
 def cekJadwalKosongProdi(event):
     openData(f"mahasiswa/{dropdownCariProdiKosong.get().lower()}.txt")
-    gantiTeks(jadwalKosongProdi(jadwalKosong(listJadwal)))
+    gantiTeks(jadwalKosong(listJadwal, 1))
 
 def cekSesiKosong(event):
-    gantiTeks(jadwalKosongSesi(jadwalKosong(listJadwal), dropdownJadwalKosongSesi.get()))
+    gantiTeks(jadwalKosong(listJadwal, 2))
 
 def openEditor():
     global kolom_tabel
