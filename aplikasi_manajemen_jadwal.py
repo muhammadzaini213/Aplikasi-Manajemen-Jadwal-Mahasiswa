@@ -244,7 +244,7 @@ def windowEdit(dataTabel):
         content_frame.update_idletasks() 
         canvas.config(scrollregion=canvas.bbox("all"))
 
-def show_popup(event):
+def popup(event):
     item_id = tree.selection()
     item_values = tree.item(item_id, 'values')
     formatted_values = "\t".join(item_values)
@@ -280,7 +280,7 @@ def menuEdit():
         tree.insert("", tk.END, values=row)
 
     hsb.configure(command=tree.xview)
-    tree.bind("<Button-3>", show_popup) # Klik kanan
+    tree.bind("<Button-3>", popup) # Klik kanan
 
 
 def buatTombol(frame_tombol, teks, fungsi):
