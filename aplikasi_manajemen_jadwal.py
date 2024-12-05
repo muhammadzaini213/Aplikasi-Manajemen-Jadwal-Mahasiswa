@@ -1,4 +1,4 @@
-listJadwal = []
+dataJadwal = []
 
 # List
 prodi = ["Fisika", "Matematika", "Teknik Mesin", "Teknik Elektro", "Teknik Kimia", "Teknik Material dan Metalurgi", "Teknik Sipil", "Perencanaan Wilayah dan Kota", "Teknik Perkapalan", "Sistem Informasi", "Informatika", "Teknik Industri", "Teknik Lingkungan", "Teknik Kelautan", "Arsitektur", "Statistika", "Ilmu Aktuaria", "Rekayasa Keselamatan", "Teknologi Pangan", "Bisnis Digital", "Teknik Logistik", "Desain Komunikasi Visual"] 
@@ -12,36 +12,36 @@ def sorting(listSesi):
                 listSesiSorted.append(listSesi[jadwalMahasiswa])     
     return listSesiSorted
 
-def jadwalindividu(listJadwal, text):
+def jadwalindividu(dataJadwal, namaNim):
     found = False
-    listDitemukan=""
-    for i in range (0, len(listJadwal), 2):
-        if (text.lower() in listJadwal[i].lower()):
-            listDitemukan = f"\n{listDitemukan}{listJadwal[i]}\n"
-            for j in range (0, len(listJadwal[i+1])):
-                if(listJadwal[i+1][j]):
-                    listDitemukan = f"{listDitemukan}{listJadwal[i+1][j]}\n"
+    jadwalDitemukan=""
+    for data in range (0, len(dataJadwal), 2):
+        if (namaNim.lower() in dataJadwal[data].lower()):
+            jadwalDitemukan = f"\n{jadwalDitemukan}{dataJadwal[data]}\n" # Ini bakal nyari berdasarkan nama/nim
+            for j in range (0, len(dataJadwal[data+1])):
+                if(dataJadwal[data+1][j]):
+                    jadwalDitemukan = f"{jadwalDitemukan}{dataJadwal[data+1][j]}\n" # ini akan menambahkan jadwal berdasarkan nama/nim yang ditemukan
                     found = True
-    if(found == False): return "Tidak ditemukan."
-    else: return(listDitemukan)
+    if(found == False): return "Nama/NIM Tidak ditemukan didalam data yang disimpan."
+    else: return(jadwalDitemukan)
 
-def jadwalKosong(listJadwal, opsi): 
-    listJadwalKosong = []
-    for indeksJadwal in range(1, len(listJadwal),2):
+def jadwalKosong(dataJadwal, opsi): 
+    dataJadwalKosong = []
+    for indeksJadwal in range(1, len(dataJadwal),2):
         listSesiKosong = sesi.copy()
-        for jadwalMahasiswa in listJadwal[indeksJadwal]: 
+        for jadwalMahasiswa in dataJadwal[indeksJadwal]: 
             for jadwalMatkul in listSesiKosong: 
                 if jadwalMatkul in jadwalMahasiswa: listSesiKosong.remove(jadwalMatkul)
-        listJadwalKosong.append(listJadwal[indeksJadwal-1])
-        listJadwalKosong.append(listSesiKosong)
+        dataJadwalKosong.append(dataJadwal[indeksJadwal-1])
+        dataJadwalKosong.append(listSesiKosong)
 
     if(opsi == 1):
         jadwalKosongProdiDitemukan = ""
         listSesi = sesi.copy()
         count = []
         for sesiAktif in range (0, len(listSesi)):
-            for mahasiswa in range(1, len(listJadwalKosong), 2):
-                for k in listJadwalKosong[mahasiswa]:
+            for mahasiswa in range(1, len(dataJadwalKosong), 2):
+                for k in dataJadwalKosong[mahasiswa]:
                     count.append(0)
                     if(listSesi[sesiAktif] in k): count[sesiAktif] = count[sesiAktif] + 1
 
@@ -51,20 +51,20 @@ def jadwalKosong(listJadwal, opsi):
     
     elif(opsi == 2):
         jadwalKosongSesiDitemukan = ""
-        for i in range(1, len(listJadwalKosong), 2):
-            if(dropdownJadwalKosongSesi.get() in listJadwalKosong[i]): 
-                jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{listJadwalKosong[i-1]}\n"
+        for i in range(1, len(dataJadwalKosong), 2):
+            if(dropdownJadwalKosongSesi.get() in dataJadwalKosong[i]): 
+                jadwalKosongSesiDitemukan = f"{jadwalKosongSesiDitemukan}{dataJadwalKosong[i-1]}\n"
         if(jadwalKosongSesiDitemukan == ""): 
             return f"Tidak ada mahasiswa prodi {dropdownCariProdiKosong.get()} yang kosong saat {dropdownJadwalKosongSesi.get()}"
         else: 
             return jadwalKosongSesiDitemukan
         
-def openData(path):
+def bukaData(path):
     with open(path, 'r') as file:
         line = file.read().split("\n")
 
         matkul = line[0].replace("\t\t", "\t").split("\t")[:-1]
-        listJadwal.clear()
+        dataJadwal.clear()
         for mahasiswa in range (1, len(line)):
             column = line[mahasiswa].split("\t")
             individu = column[0]
@@ -81,12 +81,12 @@ def openData(path):
                 matkulDanKelas.append(f"{listSesi[matkulKelas]} {listKelas[matkulKelas]}")
 
             matkulDanKelas = sorting(matkulDanKelas)
-            listJadwal.append(f"{nama} - {individu}")
-            listJadwal.append(matkulDanKelas)
+            dataJadwal.append(f"{nama} - {individu}")
+            dataJadwal.append(matkulDanKelas)
 
         return matkul
     
-openData("mahasiswa/fisika.txt")
+bukaData("mahasiswa/fisika.txt")
 
 # Materi 1
 import tkinter as tk
@@ -107,7 +107,7 @@ input = tk.Entry(frame_alat, font=font)
 input.pack(pady=(0, 20), padx=50, fill=tk.X)
 def cekJadwalMahasiswa(event):
     input_value = input.get()
-    gantiTeks(jadwalindividu(listJadwal, input_value))
+    gantiTeks(jadwalindividu(dataJadwal, input_value))
 input.bind("<KeyRelease>", cekJadwalMahasiswa)
 
 dropdownUbahProdi = ttk.Combobox(frame_dropdown, font=font, state="readonly")
@@ -122,7 +122,7 @@ scrollbar_hasil.config(command=text_hasil_pencarian.yview)
 text_hasil_pencarian.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
 scrollbar_hasil.pack(side=tk.RIGHT, fill=tk.Y)
 
-def openTools(option):
+def pilihAlat(option):
     frame_menu_awal.pack_forget() 
     frame_alat.pack(expand=True)  
     if(option == 1):
@@ -153,7 +153,7 @@ hsb.configure(command=tree.xview)
 
 bottom_frame = ttk.Frame(root)
 dropdown = ttk.Combobox(bottom_frame,font = font, state='readonly')
-dropdown['values'] = sesi
+dropdown['values'] = prodi
 dropdown.pack(side="right", padx=40)
 dropdown.set("Fisika")
 
@@ -167,7 +167,7 @@ def dataEdit(path):
             matkulDanKelas.extend(["Kelas", m])        
         for mahasiswa in range(1, len(line)):
             column = line[mahasiswa].split("\t")
-            table.append(tuple(column))
+            table.append(column)
         return table, matkulDanKelas
     
 def ubahData(baris_tujuan, data_input):
@@ -176,7 +176,7 @@ def ubahData(baris_tujuan, data_input):
         data = file.read()
     with open(f"mahasiswa/{dropdown.get()}.txt", 'w') as file:
         file.write(data.replace(baris_tujuan, data_input))
-    openEditor()
+    menuEdit()
 
 def menu_edit(row_data):
     edit_window = tk.Toplevel()
@@ -239,19 +239,19 @@ def gantiTeks(output_teks):
     text_hasil_pencarian.yview_moveto(0)   
 
 def ganti_prodi_edit(event):
-    openEditor()
+    menuEdit()
 
 def ubahProdi(event):
-    openData(f"mahasiswa/{dropdownUbahProdi.get().lower()}.txt")
+    bukaData(f"mahasiswa/{dropdownUbahProdi.get().lower()}.txt")
 
 def cekJadwalKosongProdi(event):
-    openData(f"mahasiswa/{dropdownCariProdiKosong.get().lower()}.txt")
-    gantiTeks(jadwalKosong(listJadwal, 1))
+    bukaData(f"mahasiswa/{dropdownCariProdiKosong.get().lower()}.txt")
+    gantiTeks(jadwalKosong(dataJadwal, 1))
 
 def cekSesiKosong(event):
-    gantiTeks(jadwalKosong(listJadwal, 2))
+    gantiTeks(jadwalKosong(dataJadwal, 2))
 
-def openEditor():
+def menuEdit():
     global kolom_tabel
     path = dropdown.get()
     table, matkulDanKelas = [],[]
@@ -295,10 +295,10 @@ buatDropdown(dropdownUbahProdi, prodi, "Pilih Prodi", ubahProdi)
 buatDropdown(dropdownCariProdiKosong, prodi, "Cari Berdasarkan Prodi", cekJadwalKosongProdi)
 buatDropdown(dropdownJadwalKosongSesi, sesi, "Cari Berdasarkan Sesi", cekSesiKosong)
 
-buatTombol(frame_menu_awal, "Lihat Jadwal Matkul", lambda: openTools(1))
-buatTombol(frame_menu_awal, "Jadwal Kosong",lambda: openTools(2))
-buatTombol(frame_menu_awal, "Edit Jadwal",openEditor)
-buatTombol(frame_alat, "Kembali", lambda: openTools(5))
-buatTombol(bottom_frame, "Kembali", lambda: openTools(5))
+buatTombol(frame_menu_awal, "Lihat Jadwal Matkul", lambda: pilihAlat(1))
+buatTombol(frame_menu_awal, "Jadwal Kosong",lambda: pilihAlat(2))
+buatTombol(frame_menu_awal, "Edit Jadwal",menuEdit)
+buatTombol(frame_alat, "Kembali", lambda: pilihAlat(5))
+buatTombol(bottom_frame, "Kembali", lambda: pilihAlat(5))
 
 root.mainloop()
