@@ -147,9 +147,9 @@ tree_frame = ttk.Frame(root)
 hsb = ttk.Scrollbar(tree_frame, orient="horizontal")
 hsb.pack(fill="x")
 
-tree = ttk.Treeview(tree_frame, columns=[], show="headings", xscrollcommand=hsb.set)
-tree.configure(xscrollcommand=hsb.set)
-hsb.configure(command=tree.xview)
+tabel_edit_jadwal = ttk.Treeview(tree_frame, columns=[], show="headings", xscrollcommand=hsb.set)
+tabel_edit_jadwal.configure(xscrollcommand=hsb.set)
+hsb.configure(command=tabel_edit_jadwal.xview)
 
 bottom_frame = ttk.Frame(root)
 dropdown = ttk.Combobox(bottom_frame,font = font, state='readonly')
@@ -245,10 +245,10 @@ def windowEdit(dataTabel):
         canvas.config(scrollregion=canvas.bbox("all"))
 
 def popup(event):
-    item_id = tree.selection()
-    item_values = tree.item(item_id, 'values')
+    item_id = tabel_edit_jadwal.selection()
+    item_values = tabel_edit_jadwal.item(item_id, 'values')
     formatted_values = "\t".join(item_values)
-    tree.selection_set(item_id)
+    tabel_edit_jadwal.selection_set(item_id)
     popup = tk.Menu(root, tearoff=0)
     popup.add_command(label="Edit", command=lambda: windowEdit(item_values))
     popup.add_command(label="Hapus", command=lambda: ubahData(f"{formatted_values}\n", ""))
@@ -269,18 +269,18 @@ def menuEdit():
     frame_menu_awal.pack_forget()
     tree_frame.pack(fill=tk.BOTH, expand=True)
     bottom_frame.pack(fill=tk.BOTH, expand=True)
-    tree["columns"] = id_kolom 
-    tree.pack(fill=tk.BOTH, expand=True) 
-    tree.delete(*tree.get_children())
+    tabel_edit_jadwal["columns"] = id_kolom 
+    tabel_edit_jadwal.pack(fill=tk.BOTH, expand=True) 
+    tabel_edit_jadwal.delete(*tabel_edit_jadwal.get_children())
 
     for col in range(0, len(id_kolom)):
-        tree.heading(col, text=nama_kolom[col])
-        tree.column(col, anchor=tk.CENTER)  
+        tabel_edit_jadwal.heading(col, text=nama_kolom[col])
+        tabel_edit_jadwal.column(col, anchor=tk.CENTER)  
     for row in tabel:
-        tree.insert("", tk.END, values=row)
+        tabel_edit_jadwal.insert("", tk.END, values=row)
 
-    hsb.configure(command=tree.xview)
-    tree.bind("<Button-3>", popup) # Klik kanan
+    hsb.configure(command=tabel_edit_jadwal.xview)
+    tabel_edit_jadwal.bind("<Button-3>", popup) # Klik kanan
 
 
 def buatTombol(frame_tombol, teks, fungsi):
