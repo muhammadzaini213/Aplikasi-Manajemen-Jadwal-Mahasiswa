@@ -157,78 +157,6 @@ dropdown['values'] = prodi
 dropdown.pack(side="right", padx=40)
 dropdown.set("Fisika")
 
-def dataEdit(path):
-    table = []
-    with open(path, 'r') as file:
-        line = file.read().split("\n")
-        matkul = line[0].replace("\t\t", "\t").split("\t")[:-1]
-        matkulDanKelas = []
-        for m in matkul:
-            matkulDanKelas.extend(["Kelas", m])        
-        for mahasiswa in range(1, len(line)):
-            column = line[mahasiswa].split("\t")
-            table.append(column)
-        return table, matkulDanKelas
-    
-def ubahData(baris_tujuan, data_input):
-    data = ""
-    with open(f"mahasiswa/{dropdown.get()}.txt", 'r') as file:
-        data = file.read()
-    with open(f"mahasiswa/{dropdown.get()}.txt", 'w') as file:
-        file.write(data.replace(baris_tujuan, data_input))
-    menuEdit()
-
-def menu_edit(row_data):
-    edit_window = tk.Toplevel()
-    edit_window.title("Edit Jadwal")
-    edit_window.grab_set()
-    edit_window.geometry("800x600")
-
-    canvas = tk.Canvas(edit_window)
-    canvas.pack(side="left", fill="both", expand=True)
-    scrollbar = tk.Scrollbar(canvas, orient="horizontal", command=canvas.xview)
-    scrollbar.pack(side="bottom", fill="x") 
-    canvas.configure(xscrollcommand=scrollbar.set)
-    content_frame = tk.Frame(canvas)
-    canvas.create_window((0, 0), window=content_frame, anchor="nw")
-
-    tree = ttk.Treeview(content_frame, columns=kolom_tabel , show='headings')
-    tree.insert('', 'end', values=row_data)
-    data = []
-    for i in range(0, len(kolom_tabel)):
-        label = tk.Label(content_frame, text=kolom_tabel[i])
-        label.grid(row=0, column=i, padx=10, pady=5)  # Place label in grid
-
-        if i > 2 and i % 2 != 0:
-            edit_sesi = ttk.Combobox(content_frame, state="readonly")
-            edit_sesi['values'] = prodi
-            edit_sesi.grid(row=1, column=i, padx=10, pady=5)
-            edit_sesi.set(row_data[i])
-            data.append(edit_sesi)
-        else:
-            entry = tk.Entry(content_frame)
-            entry.grid(row=1, column=i, padx=10, pady=5)
-            entry.insert(0, row_data[i])
-            data.append(entry)
-
-        formatted_values = "\t".join(row_data)
-        
-        save_button = tk.Button(content_frame, text="Simpan", command=lambda: ubahData(formatted_values, "\t".join([widget.get() for widget in data])))
-        save_button.grid(row=2, column=0, padx=10, pady=5)
-        content_frame.update_idletasks() 
-        canvas.config(scrollregion=canvas.bbox("all"))
-
-def show_popup(event):
-    item_id = tree.selection()
-    item_values = tree.item(item_id, 'values')
-    formatted_values = "\t".join(item_values)
-    tree.selection_set(item_id)
-    popup = tk.Menu(root, tearoff=0)
-    popup.add_command(label="Edit", command=lambda: menu_edit(item_values))
-    popup.add_command(label="Hapus", command=lambda: ubahData(f"{formatted_values}\n", ""))
-    popup.post(event.x_root, event.y_root)
-
-kolom_tabel = []
 
 def gantiTeks(output_teks):
     clean_result = "\n".join(line for line in output_teks.splitlines() if line.strip())
@@ -251,35 +179,109 @@ def cekJadwalKosongProdi(event):
 def cekSesiKosong(event):
     gantiTeks(jadwalKosong(dataJadwal, 2))
 
-def menuEdit():
-    global kolom_tabel
-    path = dropdown.get()
-    table, matkulDanKelas = [],[]
-    table, matkulDanKelas = dataEdit(f"mahasiswa/{path}.txt")
-    columns = ["NIM", "Nama"] + [f"col_{i}" for i in range(len(matkulDanKelas))]
-    kolom_tabel = ["NIM", "Nama"] 
+nama_kolom = []
 
-    for i in range(len(matkulDanKelas)):
-        if (i % 2 != 0): kolom_tabel.append(matkulDanKelas[i])  
-        else: kolom_tabel.append("Kelas")     
+def editData(path):
+    table = []
+    with open(path, 'r') as file:
+        line = file.read().split("\n")
+        matkul = line[0].replace("\t\t", "\t").split("\t")[:-1]
+        matkulDanKelas = []
+        for m in matkul:
+            matkulDanKelas.extend(["Kelas", m])        
+        for mahasiswa in range(1, len(line)):
+            column = line[mahasiswa].split("\t")
+            table.append(column)
+        return table, matkulDanKelas
+    
+def ubahData(baris_tujuan, data_input, window_edit_jadwal):
+    data = ""
+    with open(f"mahasiswa/{dropdown.get()}.txt", 'r') as file:
+        data = file.read()
+    with open(f"mahasiswa/{dropdown.get()}.txt", 'w') as file:
+        file.write(data.replace(baris_tujuan, data_input))
+    window_edit_jadwal.destroy()   
+    menuEdit()
+
+def windowEdit(dataTabel):
+    window_edit_jadwal = tk.Toplevel()
+    window_edit_jadwal.title("Edit Jadwal")
+    window_edit_jadwal.grab_set()
+    window_edit_jadwal.geometry("800x150")
+
+    canvas = tk.Canvas(window_edit_jadwal)
+    canvas.pack(side="left", fill="both", expand=True)
+    scrollbar = tk.Scrollbar(canvas, orient="horizontal", command=canvas.xview)
+    scrollbar.pack(side="bottom", fill="x") 
+    canvas.configure(xscrollcommand=scrollbar.set)
+    content_frame = tk.Frame(canvas)
+    canvas.create_window((0, 0), window=content_frame, anchor="nw")
+
+    tabel_widget = ttk.Treeview(content_frame, columns=nama_kolom , show='headings')
+    tabel_widget.insert('', 'end', values=dataTabel)
+    data = []
+    for kolom in range(0, len(nama_kolom)):
+        label = tk.Label(content_frame, text=nama_kolom[kolom])
+        label.grid(row=0, column=kolom, padx=10, pady=5)
+
+        if kolom > 2 and kolom % 2 != 0:
+            edit_sesi = ttk.Combobox(content_frame, state="readonly")
+            edit_sesi['values'] = prodi
+            edit_sesi.grid(row=1, column=kolom, padx=10, pady=5)
+            edit_sesi.set(dataTabel[kolom])
+            data.append(edit_sesi)
+        else:
+            input = tk.Entry(content_frame)
+            input.grid(row=1, column=kolom, padx=10, pady=5)
+            input.insert(0, dataTabel[kolom])
+            data.append(input)
+
+        formatted_values = "\t".join(dataTabel)
+        
+        save_button = tk.Button(content_frame, text="Simpan", command=lambda: 
+                                ubahData(formatted_values, "\t".join([widget.get() for widget in data]), window_edit_jadwal))
+        save_button.grid(row=2, column=0, padx=10, pady=5)
+        content_frame.update_idletasks() 
+        canvas.config(scrollregion=canvas.bbox("all"))
+
+def show_popup(event):
+    item_id = tree.selection()
+    item_values = tree.item(item_id, 'values')
+    formatted_values = "\t".join(item_values)
+    tree.selection_set(item_id)
+    popup = tk.Menu(root, tearoff=0)
+    popup.add_command(label="Edit", command=lambda: windowEdit(item_values))
+    popup.add_command(label="Hapus", command=lambda: ubahData(f"{formatted_values}\n", ""))
+    popup.post(event.x_root, event.y_root)
+
+def menuEdit():
+    global nama_kolom
+    path = dropdown.get()
+    tabel, matkulDanKelas = [],[]
+    tabel, matkulDanKelas = editData(f"mahasiswa/{path}.txt")
+    id_kolom = ["NIM", "Nama"] + [f"col_{i}" for i in range(len(matkulDanKelas))]
+    nama_kolom = ["NIM", "Nama"]
+
+    for urutanKolom in range(len(matkulDanKelas)):
+        if (urutanKolom % 2 != 0): nama_kolom.append(matkulDanKelas[urutanKolom])  
+        else: nama_kolom.append("Kelas")     
 
     frame_menu_awal.pack_forget()
     tree_frame.pack(fill=tk.BOTH, expand=True)
     bottom_frame.pack(fill=tk.BOTH, expand=True)
-    tree["columns"] = columns 
+    tree["columns"] = id_kolom 
     tree.pack(fill=tk.BOTH, expand=True) 
     tree.delete(*tree.get_children())
 
-    for i, col in enumerate(columns):
-        tree.heading(col, text=kolom_tabel[i])
+    for col in range(0, len(id_kolom)):
+        tree.heading(col, text=nama_kolom[col])
         tree.column(col, anchor=tk.CENTER)  
-    for row in table:
+    for row in tabel:
         tree.insert("", tk.END, values=row)
 
     hsb.configure(command=tree.xview)
-    tree.bind("<Button-3>", show_popup)
+    tree.bind("<Button-3>", show_popup) # Klik kanan
 
-dropdown.bind("<<ComboboxSelected>>", ganti_prodi_edit)
 
 def buatTombol(frame_tombol, teks, fungsi):
     tombol = tk.Button(frame_tombol, text=teks, font=font, command=fungsi)
@@ -294,6 +296,7 @@ def buatDropdown(comboBox, values, text, fungsi):
 buatDropdown(dropdownUbahProdi, prodi, "Pilih Prodi", ubahProdi)
 buatDropdown(dropdownCariProdiKosong, prodi, "Cari Berdasarkan Prodi", cekJadwalKosongProdi)
 buatDropdown(dropdownJadwalKosongSesi, sesi, "Cari Berdasarkan Sesi", cekSesiKosong)
+dropdown.bind("<<ComboboxSelected>>", ganti_prodi_edit)
 
 buatTombol(frame_menu_awal, "Lihat Jadwal Matkul", lambda: pilihAlat(1))
 buatTombol(frame_menu_awal, "Jadwal Kosong",lambda: pilihAlat(2))
