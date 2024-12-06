@@ -226,7 +226,7 @@ def windowEdit(dataTabel):
 
         if kolom > 2 and kolom % 2 != 0:
             edit_sesi = ttk.Combobox(content_frame, state="readonly")
-            edit_sesi['values'] = prodi
+            edit_sesi['values'] = sesi
             edit_sesi.grid(row=1, column=kolom, padx=10, pady=5)
             edit_sesi.set(dataTabel[kolom])
             data.append(edit_sesi)
