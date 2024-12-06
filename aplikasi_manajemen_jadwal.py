@@ -104,7 +104,7 @@ frame_dropdown = tk.Frame(frame_alat)
 frame_dropdown.pack(pady=(0, 20), padx=50, fill=tk.X)
 
 input = tk.Entry(frame_alat, font=font)
-input.pack(pady=(0, 20), padx=50, fill=tk.X)
+input.pack(pady=(0, 20), padx=50, fill=tk.X, side=tk.TOP)
 def cekJadwalMahasiswa(event):
     input_value = input.get()
     gantiTeks(jadwalindividu(dataJadwal, input_value))
